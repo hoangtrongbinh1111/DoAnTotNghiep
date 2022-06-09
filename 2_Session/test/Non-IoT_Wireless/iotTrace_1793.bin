@@ -1,0 +1,9 @@
+GET /edgedl/release2/11dmqli61dlxmy9gri9fmyutfppgouww6q845cv06s65nml3f17gma4q87fxzi3m9lam53qvcjb5lf8bmap9vz2u4ndc956x2mf9/159_all_sthset.crx HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: identity
+If-Unmodified-Since: Thu, 22 Sep 2016 22:23:17 GMT
+Range: bytes=5371-7546
+User-Agent: Microsoft BITS/7.5
+Host: redirector.gvt1.com
+

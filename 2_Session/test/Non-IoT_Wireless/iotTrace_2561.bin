@@ -1,0 +1,11 @@
+POST / HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: Multipart/Related;boundary=495d3add-e24c-44f4-86a2-88a6831e76a2-bda296bc-b0a6-46ea-b2ac-08d8b7418;type="application/xop+xml";start="<soap@soap>";start-info="application/soap+xml"
+User-Agent: WSDAPI
+MIME-Version: 1.0
+Content-Description: WSDAPI MIME multipart
+Host: [fe80::725a:fff:fee4:9bc0]:3910
+

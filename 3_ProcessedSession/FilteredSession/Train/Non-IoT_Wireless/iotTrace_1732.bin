@@ -1,0 +1,9 @@
+GET /pki/crl/products/MicrosoftTimeStampPCA.crl HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 18 Aug 2016 00:36:25 GMT
+If-None-Match: "43ea118de8f8d11:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: crl.microsoft.com
+

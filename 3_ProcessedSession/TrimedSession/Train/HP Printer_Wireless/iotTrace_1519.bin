@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alcap:AccessListCap
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dd="http://www.hp.com/schemas/imaging/con/dictionaries/1.0/"
+    xmlns:alcap="http://www.hp.com/schemas/imaging/con/ledm/accesslistcap/2013/05/07"
+    xsi:schemaLocation="http://www.hp.com/schemas/imaging/con/ledm/accesslistcap/2013/05/07 ../../schemas/AccessListCap.xsd">
+
+   <dd:Version>
+       <dd:Revision>SVN-IPG-LEDM.1</dd:Revision>
+       <dd:Date>2013-09-04</dd:Date>
+   </dd:Version>
+
+   <alcap:Users>
+       <alcap:User>
+           <alcap:Id typeof="String" length="36" elementXPath="al:Users/al:User/al:Id" access="readOnly"/>
+           <alcap:Name typeof="String" length="128" elementXPath="al:Users/al:User/al:Name" access="readWrite"/>
+     

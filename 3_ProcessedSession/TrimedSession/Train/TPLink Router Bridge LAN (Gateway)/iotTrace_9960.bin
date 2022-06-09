@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.7.9
+Content-Type: application/javascript; charset=utf-8
+P3P: policyref="http://trc.taboola.com/p3p.xml", CP="NOI DSP COR LAW NID CURa ADMa DEVa PSAa PSDa OUR BUS IND UNI COM NAV INT DEM"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Encoding: gzip
+Date: Fri, 23 Sep 2016 03:09:27 GMT
+Content-Length: 4092
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: t_gid=53e7e688-66b5-4d4c-b352-3a122996083e;Path=/;Domain=.taboola.com;Expires=Sat, 23-Sep-2017 03:09:27 GMT
+Set-Cookie: taboola_session_id=v2_34313a67f4bbaab6ce9143cf5c133d6c_53e7e688-66b5-4d4c-b352-3a122996083e_1474600167_1474600167_CAoQqsxAGI6Xk6j1KiABKAM;Path=/connectedventure-dorkly/
+Set-Cookie: JSES

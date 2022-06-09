@@ -1,0 +1,8 @@
+POST /cgi-bin/once HTTP/1.1
+User-Agent: Withings UserAgent
+Host: scalews.withings.net
+Accept: */*
+Content-Length: 10
+Content-Type: application/x-www-form-urlencoded
+
+action=get

@@ -1,0 +1,13 @@
+REGISTER sip:sip.invoxia.com SIP/2.0
+Via: SIP/2.0/TCP 192.168.1.120:53480;rport;branch=z9hG4bKPj6eba4b2d-c5d7-4ac7-8284-c8ac80879238
+Max-Forwards: 70
+From: "Triby-2044" <sip:smarthomeunsw.gmail.com.triby_18b79e022044@sip.invoxia.com>;tag=270f08ce-74c2-4344-8f86-16c2c69b685c
+To: "Triby-2044" <sip:smarthomeunsw.gmail.com.triby_18b79e022044@sip.invoxia.com>
+Call-ID: 15ee8944-b3fe-446c-bf35-cc2567b65c00
+CSeq: 43571 REGISTER
+User-Agent: invoxia KTP1 10.48.1 [18:B7:9E:02:20:44]
+Contact: "Triby-2044" <sip:smarthomeunsw.gmail.com.triby_18b79e022044@192.168.1.120:53480;transport=TCP;ob>
+Expires: 300
+Allow: PRACK, INVITE, ACK, BYE, CANCEL, UPDATE, SUBSCRIBE, NOTIFY, REFER, OPTIONS, INFO
+Content-Length:  0
+

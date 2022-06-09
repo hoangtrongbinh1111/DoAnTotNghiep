@@ -1,0 +1,1 @@
+livery><wse:Expires>PT1H</wse:Expires><wse:Filter Dialect="http://schemas.xmlsoap.org/ws/2006/02/devprof/Action">http://schemas.microsoft.com/windows/2006/08/wdp/scan/ScannerStatusSummaryEvent</wse:Filter></wse:Subscribe></soap:Body></soap:Envelope>

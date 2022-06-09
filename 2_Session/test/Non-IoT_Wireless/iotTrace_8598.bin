@@ -1,0 +1,7 @@
+GET /locator/android/sgb/businessapp/68/config.xml HTTP/1.1
+User-Agent: Banking-WBC/6.1.1(Android; 5.0.2; HTC; HTC_PN071; en)
+Cookie: 
+Host: download.stgeorge.com.au
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

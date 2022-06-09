@@ -1,0 +1,10 @@
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 192.168.1.120:53480;rport=53480;branch=z9hG4bKPjb9844255-6ed0-4f4e-8ad4-b80857d6cd4d;received=149.171.37.162
+From: "Triby-2044" <sip:smarthomeunsw.gmail.com.triby_18b79e022044@sip.invoxia.com>;tag=1c44ce2a-4785-45ae-a473-f5df7f0137b2
+To: "Triby-2044" <sip:smarthomeunsw.gmail.com.triby_18b79e022044@sip.invoxia.com>;tag=c0d116110afd26b5975e33f3c3ee41c4.5a64
+Call-ID: 15ee8944-b3fe-446c-bf35-cc2567b65c00
+CSeq: 43767 REGISTER
+Contact: <sip:smarthomeunsw.gmail.com.triby_18b79e022044@192.168.1.120:53480;transport=TCP;ob>;expires=300;received="sip:149.171.37.162:53480;transport=tcp"
+Server: kamailio (4.3.4nvx2 (x86_64/linux))
+Content-Length: 0
+

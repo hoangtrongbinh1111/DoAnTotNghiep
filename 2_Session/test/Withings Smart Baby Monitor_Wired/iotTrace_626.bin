@@ -1,0 +1,8 @@
+POST /cgi-bin/presence HTTP/1.1
+User-Agent: Withings UserAgent
+Host: babyws.withings.net
+Accept: */*
+Content-Length: 144
+Content-Type: application/x-www-form-urlencoded
+
+action=update&sessionid=3446-ba016de2-ca6302b3&kd=c43e3043dd6ce928bdc7a9e682c6c8b8&kp=b0aaad726079b573ec51fdc52d7f9195&private_ip=192.168.1.166&

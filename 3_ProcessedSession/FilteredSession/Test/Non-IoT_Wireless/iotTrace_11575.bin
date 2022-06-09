@@ -1,0 +1,9 @@
+GET /pki/crl/products/microsoftrootcert.crl HTTP/1.1
+Cache-Control: max-age = 753
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Tue, 06 Sep 2016 05:01:54 GMT
+If-None-Match: "6b18dc9fb7d21:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: crl.microsoft.com
+

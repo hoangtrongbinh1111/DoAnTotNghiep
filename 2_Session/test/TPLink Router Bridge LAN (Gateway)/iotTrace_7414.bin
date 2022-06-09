@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 23 Sep 2016 05:34:06 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Location: https://fastpokemap.se/
+Server: cloudflare-nginx
+CF-RAY: 2e6ba028c1e20b0e-SYD
+
+0
+

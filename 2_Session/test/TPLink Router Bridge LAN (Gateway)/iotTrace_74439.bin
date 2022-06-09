@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Thu, 22 Sep 2016 20:56:32 GMT
+Server: Apache
+Vary: Accept-Encoding
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Content-Length: 156
+Content-Type: text/json;charset=UTF-8
+
+{"status":0,"body":[{"u":11020336,"t1":{"v":[51701,56600],"o":61387}},{"u":6615931,"t1":{"v":[54400,53800,54600,54800,54800,55400,54600,55600],"o":55000}}]}

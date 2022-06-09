@@ -1,0 +1,8 @@
+GET /bag HTTP/1.1
+Host: init-p01st.push.apple.com
+Accept: */*
+Accept-Language: en-au
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+User-Agent: iPhone7,2/9.3.5 (13G36)
+

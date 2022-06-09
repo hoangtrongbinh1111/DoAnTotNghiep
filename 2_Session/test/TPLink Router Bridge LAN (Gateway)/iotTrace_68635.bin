@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store
+Content-Type: image/gif; charset=ISO-8859-1
+Location: http://rrc.rlcdn.com/382416.gif?partner_uid=690a80ab12cfa6f805a0485287101e1a&redirect=1
+P3P: CP: "NON DSP COR PSDo SAMo BUS IND UNI COM NAV INT POL PRE"
+Content-Length: 0
+Connection: keep-alive
+

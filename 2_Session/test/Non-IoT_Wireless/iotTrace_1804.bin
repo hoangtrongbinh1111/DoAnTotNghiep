@@ -1,0 +1,9 @@
+d5
+--e5dcac61-257a-44bb-9fa7-824509763ae7-6c547fac-8183-4c79-bf0f-064a61210
+Content-Type: application/xop+xml;charset=UTF-8;type="application/soap+xml"
+Content-Transfer-Encoding: binary
+Content-ID: <soap@soap>
+
+
+4f0
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:UNS1="http://www.microsoft.com/windows/test/testdevice/11/2005" xmlns:pri="http://schemas.microsoft.com/windows/2006/08/wdp/print" xmlns:xop="http://www.w3.org/2004/08/xop/include"><soap:Header><wsa:To>http://[fe80::725a:fff:fee4:9bc0]:3910</wsa:To><wsa:Action>http://schemas.microsoft.com/windows/2006/08/wdp/print/SendDocument</wsa:Action><wsa:MessageID>urn:uuid:63886047-e696-4f7a-a96c-9024b4449d2a</wsa:MessageID><wsa:ReplyTo><wsa:Address>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:Address></wsa:ReplyTo><wsa:From><wsa:Address>urn:uuid:f2a58b34-3eb0-49b8-a673-36c5ccebbac7</wsa:Address></wsa:From><UNS1:ServiceIdentifier>uri:prn</UNS1:ServiceIdentifier></soap:Header><soap:Body><pri:SendDocumentRequest><pri:JobId>12</pri:JobId><pri:DocumentDescription><pri:DocumentId>1</pri:DocumentId><pri:Compression>None</pri:Compression><pri:Format>unknown</pri:Format></pri:DocumentDescription><pri:LastDocument>true</pri:LastDocument><pri:DocumentData><xop:Include href="cid:0@body"></xop:Include></pri:DocumentData></pri:

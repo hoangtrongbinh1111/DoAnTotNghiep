@@ -1,0 +1,9 @@
+POST /ods.as HTTP/1.1
+Content-Type: text/plain; charset=UTF-8
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Host: au-odc.samsungapps.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 342
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><SamsungProtocol networkType="0" version2="3" lang="EN" openApiVersion="23" deviceModel="SM-T810" mcc="505" mnc="00" csc="XSA" sdlVersion="2301" odcVersion="4.1.04-9" version="5.2" filter="1"><request name="checkUpdateCycle" id="2307" numParam="0" transactionId="0" /></SamsungProtocol>

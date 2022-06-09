@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 1022
+Server: Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0"><specVersion><major>1</major><minor>0</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:Basic:1</deviceType><friendlyName>SAMSUNG-SNH-P6410BN-00166CAB6B88</friendlyName><manufacturer>SAMSUNG</manufacturer><manufacturerURL>http://www.samsungtechwin.com/</manufacturerURL><modelDescription>SNH-P6410BN Network Camera</modelDescription><modelName>SNH-P6410BN</modelName><modelNumber>SNH-P6410BN</modelNumber><modelURL>http://www.samsungtechwin.com/</modelURL><serialNumber>KHNL6V2H20003LX</serialNumber><UDN>uuid:Upnp-BasicDevice-1_0-00166CAB6B88</UDN

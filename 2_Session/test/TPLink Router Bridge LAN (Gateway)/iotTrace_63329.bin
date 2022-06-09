@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: AmazonS3
+Content-Length: 292
+Content-Type: application/x-javascript
+x-amz-id-2: /IGktlRa422Wund/1S5FAZ00E7Yl/to0KKVlbzYwIYzgXpl/HeVw2xXqSvgrI92G
+Vary: Accept-Encoding
+x-amz-version-id: null
+ETag: "adadfc5d7afd13e353d9d52cec1c7827"
+x-amz-request-id: 18D533A6B153B248
+Cache-Control: max-age=63721
+Date: Fri, 23 Sep 2016 03:29:26 GMT
+Connection: keep-alive
+
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "

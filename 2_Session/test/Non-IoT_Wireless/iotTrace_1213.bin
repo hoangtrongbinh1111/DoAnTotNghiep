@@ -1,0 +1,9 @@
+GET /pki/crl/products/MicWinHarComPCA_2010-11-01.crl HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Sat, 24 May 2014 05:04:55 GMT
+If-None-Match: "4af46b4d77cf1:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: crl.microsoft.com
+

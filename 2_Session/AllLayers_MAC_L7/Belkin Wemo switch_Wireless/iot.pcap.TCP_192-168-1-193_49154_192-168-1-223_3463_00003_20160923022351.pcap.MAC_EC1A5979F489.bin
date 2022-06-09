@@ -1,0 +1,9 @@
+NOTIFY / HTTP/1.1
+HOST: 192.168.1.193:49154
+CONTENT-TYPE: text/xml
+CONTENT-LENGTH: 140
+NT: upnp:event
+NTS: upnp:propchange
+SID: uuid:e96cab92-1dd1-11b2-b311-c67ae57a6874
+SEQ: 0
+

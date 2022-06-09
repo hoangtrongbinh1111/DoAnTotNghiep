@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+CONNECTION: close
+CONTENT-LENGTH: 41
+CONTENT-TYPE: text/html
+
+<html><body><h1>200 OK</h1></body></html>

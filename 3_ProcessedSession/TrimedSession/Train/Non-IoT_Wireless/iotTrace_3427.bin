@@ -1,0 +1,9 @@
+GET /images/download.jpg HTTP/1.1
+Host: www.dorkly.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: optimizelyEndUserId=oeu1428110839835r0.40028290427289903; _t_uid=b4a2bbe42d6d5773cf207faab55f2b8d7c900bdc.1428110839.1440082ffd8e0.NjAuMjQxLjE3MC43NQ%3D%3D; __gads=ID=de384f73974bad99:T=1432274010:S=ALNI_MYLKXC86ZuubtKCnjWywjDI3ObNAA; __srret=1; __srui=8f5988a7-d9e7-11e4-ae9e-22000a4181c5; chapi={"volume":100,"mute":false,"quality":"high_qu

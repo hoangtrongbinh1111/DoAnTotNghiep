@@ -1,0 +1,5 @@
+UNSUBSCRIBE /upnp/event/basicevent1 HTTP/1.1
+HOST: 192.168.1.223:49153
+SID: uuid:7c1d8c44-1dd2-11b2-b310-c67ae57a6874
+USER-AGENT: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+

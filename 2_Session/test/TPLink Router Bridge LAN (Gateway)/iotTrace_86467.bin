@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+x-amz-request-id: C3B8E690B4DFBCFE
+x-amz-id-2: ttVk83q8JgKGwz++S4Ka7NHkNPIrNq6fj16glG3yLnLJ9Qe0m/MLMlNk5a9J+jNhLGjfr4ZYYug=
+Content-Type: text/html; charset=utf-8
+Content-Length: 303
+Server: AmazonS3
+Cache-Control: max-age=3496
+Expires: Fri, 23 Sep 2016 04:27:18 GMT
+Date: Fri, 23 Sep 2016 03:29:02 GMT
+Connection: keep-alive
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<h1>403 Forbidden</h1>
+<ul>
+<li>Code: AccessDenied</li>
+<li>Message: Access Denied</li>
+<li>RequestId: C3B8E690B4DFBCFE</li>
+<li>HostId: ttVk83q8JgKGwz++S4Ka7NHkNPIrNq6fj16glG3yLnLJ9Qe0m/MLMlNk5a9J+jNhLGjfr4ZYYug=</li>
+</ul>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Content-Length: 1396
+Connection: keep-alive
+Date: Thu, 22 Sep 2016 16:22:46 GMT
+Server: Apache/2.2.31 (Amazon)
+Last-Modified: Mon, 25 Jul 2016 18:40:20 GMT
+ETag: "3c0282-574-5387a1dc37ae0"
+Accept-Ranges: bytes
+Cache-Control: max-age=300
+Expires: Thu, 22 Sep 2016 16:27:46 GMT
+Age: 221
+X-Cache: Hit from cloudfront
+Via: 1.1 b8e590a2ef13316d12372907731333d5.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: -4OJBjU98KXY5sTTPft7Zms4-e37P5lHt1XG_Fvw0QOk9OpDmvbxwA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<UEServiceLocator version="201404231509">
+    <environment>production</environment>
+    <services>
+        <service>
+            <version>1.0</version>
+            <name>notice</name>
+            <description>Notice Service for UE Mob

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-apple-plist
+Last-Modified: Thu, 22 Sep 2016 22:39:57 GMT
+Content-Length: 6835
+Server: APNS Bagger
+Cache-Control: public, max-age=3507
+Date: Fri, 23 Sep 2016 03:11:30 GMT
+Connection: keep-alive
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>signature</key>
+		<data>gyZVOQlcwfc/0jH0FqSVGeNPEr61WGsi58fVBXFpuapBjs9gJqHIguUEKYPqqAZN/C0EKwVsckhxcLbZKMysRiBGxfVGeqCWmZF4fWxcC0fRPMZHOYkaTMtQV6TFR4PcBjJXfKoIiGMONVqJ+4eLR9vuLoFST3offhe9dNoQiDd59HTKNfOKdX0MFrTyzqJ+68Wg5jS3V0BFLgMLH9MmqE17oQUWX7yA4kFn+qqdwqq+5jjdYab3xGAawxw+5Clczr0CZKNGSX+cgwzCf6aeluPG9bLcwFsBpXfr6rwqqRfI8vvOde8Xi3X7iO/bQCdq8y63NOFXatBO8DE5Vyt/LQ==</data>
+
+		<key>certs</key>
+		<array>
+			<data>MIIFPzCCBCegAwIBAgIMWCvLDwAAAABQ1d47MA0GCSqGSIb3DQEBCwUAMIG6MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNRW50cnVzdCwgSW5jLjEoMCYGA1UECxMfU2VlIHd3dy5lbnRydXN0Lm5ldC9sZWdhbC10ZXJtczE5MDcGA1UECxMwKGMpIDIwMTIgRW50cnVzdCwgSW5jLiAtIGZvciBhdXRob3JpemVkIHVzZSBvbmx5MS4wLAYDVQQDEyVFbnRydXN0IENlcnRpZmljYXRpb24gQXV0aG9yaXR5IC0gTDFLMB4XDTE1MTAyODIwMjQ0OFoXDTE3MTAyODIwNTQ0N1owbzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExEjAQBgNVBAcTCUN1cGVydGlubzETMBEGA1UEChMKQXBwbGUgSW5jLjEiMCAGA1UEAxMZaW5pdC1wMDFzdC5wdXNoLmFwcGxlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANhghU4f2/pFuZj/60r9XBh1eBl2bWhYYzBrwub7M6ELAI

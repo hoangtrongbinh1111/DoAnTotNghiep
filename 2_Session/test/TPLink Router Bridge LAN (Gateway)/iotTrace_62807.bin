@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=604800
+Content-Type: application/javascript
+Content-Encoding: gzip
+Last-Modified: Fri, 16 Sep 2016 23:39:29 GMT
+ETag: "808e2b917310d21:0"
+Content-Length: 2880
+Accept-Ranges: bytes
+Date: Fri, 23 Sep 2016 02:36:24 GMT
+Via: 1.1 varnish
+Age: 405152
+Connection: keep-alive
+X-Served-By: cache-syd1622-SYD
+X-Cache: HIT
+X-Cache-Hits: 15529
+X-Timer: S1474598184.860195,VS0,VE0
+Vary: Accept-Encoding,Accept-Encoding
+

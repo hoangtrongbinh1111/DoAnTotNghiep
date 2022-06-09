@@ -1,0 +1,8 @@
+POST /cgi-bin/maint HTTP/1.1
+User-Agent: Withings UserAgent
+Host: scalews.withings.net
+Accept: */*
+Content-Length: 10453
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+

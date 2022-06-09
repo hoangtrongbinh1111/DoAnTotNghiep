@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<root xmlns="urn:Belkin:device-1-0">
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+  <device>
+<deviceType>urn:Belkin:device:sensor:1</deviceType>
+<friendlyName>WeMo Motion</friendlyName>
+    <manufacturer>Belkin International Inc.</manufacturer>
+    <manufacturerURL>http://www.belkin.com</manufacturerURL>
+    <modelDescription>Belkin Plugin Socket 1.0</modelDescription>
+    <modelName>Socket</modelName>
+    <modelNumber>1.0</modelNumber>
+    <modelURL>http://www.belkin.com/plugin/</modelURL>
+<serialNumber>221310L11005E4</serialNumber>
+<UDN>uuid:Sensor-1_0-221310L11005E4</UDN>
+    <UPC>123456789</UPC>
+    <iconList> 
+      <icon> 
+        <mimetype>jpg</mimetype> 
+        <width>100</width> 
+        <height

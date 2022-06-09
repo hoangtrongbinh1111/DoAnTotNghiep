@@ -1,0 +1,6 @@
+GET /generate_204 HTTP/1.1
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.2; AOSP Netatmo-Camera Build/KOT49H)
+Host: 216.58.199.78
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

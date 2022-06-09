@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Sep 2016 07:48:30 GMT
+Server: Apache
+Cache-Control: no-cache
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Content-Length: 48
+Content-Type: text/plain;charset=UTF-8
+
+{"status":0,"body":{"once":"00e10239-8cb184ea"}}

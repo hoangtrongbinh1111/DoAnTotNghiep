@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Date: Fri, 23 Sep 2016 03:09:32 GMT
+Expires: 0
+Location: http://idsync.rlcdn.com/362738.gif?partner_uid=690a80ab12cfa6f805a0485287101e1a
+P3P: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV
+Pragma: no-cache
+X-Server: 172.30.10.172
+Content-Length: 0
+Connection: keep-alive
+

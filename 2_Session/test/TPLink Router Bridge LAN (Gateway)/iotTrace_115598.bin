@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Length: 14
+Date: Fri, 23 Sep 2016 02:28:49 GMT
+Connection: close
+Content-Type: text/plain
+Cache-Control: max-age=30, must-revalidate
+
+Microsoft NCSI

@@ -1,0 +1,15 @@
+HTTP/1.1 304 Not Modified
+Age: 6
+Cache-Control: max-age=86400
+Content-Type: image/jpeg
+Date: Fri, 23 Sep 2016 03:09:21 GMT
+ETag: "11d-51ea01ff5f843"
+Expires: Sat, 24 Sep 2016 03:09:21 GMT
+Last-Modified: Mon, 31 Aug 2015 19:06:03 GMT
+X-Cache: HIT
+X-Cache-Hits: 21
+X-UA-Compatible: IE=edge
+X-Varnish: 409471934 408918841
+X-Varnish-IP: 10.99.13.144
+Connection: keep-alive
+

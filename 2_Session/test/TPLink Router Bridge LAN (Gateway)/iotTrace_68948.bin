@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: image/gif
+Content-Encoding: gzip
+Expires: -1
+X-Request-Guid: 7db0c6b1-d403-4d68-bdc1-6c0ebccd710c
+Content-Length: 57
+Accept-Ranges: bytes
+Date: Fri, 23 Sep 2016 02:37:35 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-syd1623-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1474598255.158450,VS0,VE209
+X-DNS-Prefetch-Control: off
+

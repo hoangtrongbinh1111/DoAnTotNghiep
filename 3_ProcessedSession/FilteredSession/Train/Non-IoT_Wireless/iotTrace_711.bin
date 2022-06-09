@@ -1,0 +1,12 @@
+GET /measure.min.js HTTP/1.1
+Host: asset.pagefair.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: m_uniq=True
+If-None-Match: "12edaa3d167dbe832258dfc6cfeb7313"
+If-Modified-Since: Wed, 14 Sep 2016 10:25:13 GMT
+

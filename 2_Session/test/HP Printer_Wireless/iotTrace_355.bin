@@ -1,0 +1,7 @@
+POST /f2a58b34-3eb0-49b8-a673-36c5ccebbac7 HTTP/1.1
+Host: [fe80::d9f9:ebd9:7242:4961]:5357
+Content-Type: application/soap+xml
+Content-Length: 932
+Cache-Control: no-cache
+Pragma: no-cache
+

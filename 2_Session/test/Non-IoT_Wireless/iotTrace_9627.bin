@@ -1,0 +1,11 @@
+GET /tag/js/gpt.js HTTP/1.1
+Host: www.googletagservices.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Resource-Freshness: max-age=900,stale-while-revalidate=3600,age=10495
+If-Modified-Since: Thu, 15 Sep 2016 18:13:59 GMT
+

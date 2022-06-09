@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization,Content-Type,Accept,Origin,User-Agent,Cache-Control,Keep-Alive,X-Requested-With,If-Modified-Since,X-CSRF-TOKEN
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: http://www.dorkly.com
+Content-Type: application/javascript
+Date: Fri, 23 Sep 2016 03:09:28 GMT
+P3P: CP="NID DSP ALL COR"
+Server: nginx
+Set-Cookie: d_uniq=True; Domain=.pagefair.com; expires=Fri, 23-Sep-2016 23:59:58 GMT; Max-Age=75030; Path=/
+Content-Length: 23
+Connection: keep-alive
+
+{"sample_frequency": 1}

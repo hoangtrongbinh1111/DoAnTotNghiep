@@ -1,0 +1,10 @@
+GET /h10000/cma/ng/lib/abmvt/abmvt2.js HTTP/1.1
+Host: www8.hp.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://www.hp.com/schemas/imaging/con/ledm/jobs/2009/04/30%20../schemas/Jobs.xsd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: hpeuck_answ=0; optimizelyEndUserId=oeu1474531055812r0.2628525293277515; hpeuck_prefs=1111; optimizelySegments=%7B%222087032940%22%3A%22false%22%2C%222090753380%22%3A%22direct%22%2C%222129110424%22%3A%22gc%22%2C%222234042864%22%3A%22none%22%2C%223117980003%22%3A%22true%22%7D; optimizelyBuckets=%7B%7D; hp_last_segment=segment neutral; s_fid=5AA125FCA65C3EC4-2B992673852A3F44; s_vi=[CS]v1|2BF1C77A052C2975-400000C2000082AD[CE]
+

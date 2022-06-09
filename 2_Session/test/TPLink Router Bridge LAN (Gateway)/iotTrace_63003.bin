@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Sep 2016 03:29:27 GMT
+Server: Apache/2.2.24 (Unix)
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Set-Cookie: bku=FyG99BXAckVMYkHP; expires=Wed, 22-Mar-2017 03:29:27 GMT; path=/; domain=.bluekai.com
+BK-Server: c1a4
+Content-Length: 406
+Content-Type: text/html
+
+<html><head><script type="text/javascript">function bk_clear(id){try{document.getElementById(id).innerHTML=''}catch(e){}} setTimeout("bk_clear('bk_pl_187')",15000);</script></head><body><div id="bk_exchange">
+
+</div>
+<div id="bk_pl_187"><img height='1' width='1' src='http://r.turn.com/r/du/id/L2NzaWQvMS9zcGlkLzQ/url/http%3A%2F%2Ftags.bluekai.com%2Fsite%2F4499%3Fid%3DPARTNER_UUID&'>
+</div></body></html>

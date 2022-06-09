@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Sep 2016 10:57:00 GMT
+Server: Apache
+Vary: Accept-Encoding
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type
+Content-Length: 455
+Content-Type: text/plain;charset=UTF-8
+
+{"status":0,"body":{"sessionid":"4381-f67fba95-013861ba","sp":{"users":[{"id":11020336,"sn":"SMA","wt":51.701,"ht":1.68,"agt":30.1,"sx":0,"fm":3,"cr":1472696125,"att":0,"cs":"11,6,1,10,3,4"},{"id":6615931,"sn":"VEL","wt":54.4,"ht":1.65,"agt":24.8,"sx":0,"fm":3,"cr":1445089081,"att":0,"cs":"11,6,1,10,3,4"}]},"ind":{"lg":"fr_FR","imt":1,"stp":1,"f":0,"g":97964,"tmp":11,"w":1},"syp":{"utc":1474628220},"ctp":{"goff":36000,"dst":1475337600,"ngoff":39600}}}

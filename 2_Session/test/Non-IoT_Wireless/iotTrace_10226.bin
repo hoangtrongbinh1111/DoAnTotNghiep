@@ -1,0 +1,19 @@
+URL>/upnphost/udhisapi.dll?event=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8+urn:upnp-org:serviceId:ConnectionManager</eventSubURL>
+				<SCPDURL>/upnphost/udhisapi.dll?content=uuid:a76a978b-3c73-4454-9f60-00db8fa10cd6</SCPDURL>
+			</service>
+			<service>
+				<serviceType>urn:schemas-upnp-org:service:ContentDirectory:1</serviceType>
+				<serviceId>urn:upnp-org:serviceId:ContentDirectory</serviceId>
+				<controlURL>/upnphost/udhisapi.dll?control=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8+urn:upnp-org:serviceId:ContentDirectory</controlURL>
+				<eventSubURL>/upnphost/udhisapi.dll?event=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8+urn:upnp-org:serviceId:ContentDirectory</eventSubURL>
+				<SCPDURL>/upnphost/udhisapi.dll?content=uuid:4689c12d-edd2-4008-968d-7fdee0eacfca</SCPDURL>
+			</service>
+			<service>
+				<serviceType>urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1</serviceType>
+				<serviceId>urn:microsoft.com:serviceId:X_MS_MediaReceiverRegistrar</serviceId>
+				<controlURL>/upnphost/udhisapi.dll?control=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8+urn:microsoft.com:serviceId:X_MS_MediaReceiverRegistrar</controlURL>
+				<eventSubURL>/upnphost/udhisapi.dll?event=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8+urn:microsoft.com:serviceId:X_MS_MediaReceiverRegistrar</eventSubURL>
+				<SCPDURL>/upnphost/udhisapi.dll?content=uuid:3dc1fa77-2965-4f07-93c1-82b92f3e3ce8</SCPDURL>
+			</service>
+		</serviceList>
+	</device>

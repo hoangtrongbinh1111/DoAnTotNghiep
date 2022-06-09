@@ -1,0 +1,10 @@
+GET /mobile/status.php HTTP/1.1
+x-fb-net-hni: 50502
+x-fb-sim-hni: 50502
+X-FB-Background-State: 1
+Host: portal.fb.com
+user-agent: Dalvik/2.1.0 (Linux; U; Android 5.0.2; HTC_PN071 Build/LRX22G) [FBAN/Orca-Android;FBAV/89.0.0.14.69;FBPN/com.facebook.orca;FBLC/en_AU;FBBV/39448225;FBCR/YES OPTUS;FBMF/HTC;FBBD/htc;FBDV/HTC_PN071;FBSV/5.0.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+accept-encoding: gzip, deflate
+x-fb-http-engine: Liger
+Connection: keep-alive
+

@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+DATE: Fri, 23 Sep 2016 04:59:15 GMT
+SERVER: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+CONTENT-LENGTH: 0
+X-User-Agent: redsonic
+SID: uuid:7a1b390a-1dd2-11b2-b310-c67ae57a6874
+TIMEOUT: Second-1801
+

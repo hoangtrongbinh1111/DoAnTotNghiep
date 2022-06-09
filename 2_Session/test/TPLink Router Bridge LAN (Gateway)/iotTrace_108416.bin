@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Thu, 22 Sep 2016 18:41:42 GMT
+X-Px: nc h0-s36.p3-syd ( h0-s13.p6-lhr), nc h0-s13.p6-lhr ( origin)
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 320
+Content-Type: text/xml;charset=UTF-8
+Content-Language: en-US
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Powered-By: JSP/2.2
+Connection: keep-alive
+Set-Cookie: JSESSIONID=m9-qOJpcUzUtMhS0ZPnQbt5B.s01w05odc04; Path=/
+Set-Cookie: WMONID=mrkko80aSIE; Expires=Fri, 22-Sep-2017 18:41:42 GMT; Path=/
+

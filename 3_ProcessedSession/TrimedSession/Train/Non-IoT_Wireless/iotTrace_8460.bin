@@ -1,0 +1,8 @@
+GET /ados?t=1474598628915&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1314687737%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk637144801%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk18305595%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22python%2Chtml%2Csockets%2Cclient%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com.au%2F%22,%22IsAsync%22:true} HTTP/1.1
+Host: engine.adzerk.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://stackoverflow.com/questions/8315209/sending-http-headers-with-python
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q

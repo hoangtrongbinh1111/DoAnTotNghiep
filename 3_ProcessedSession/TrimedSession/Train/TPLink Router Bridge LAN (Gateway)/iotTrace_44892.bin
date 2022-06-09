@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Sep 2016 03:48:24 GMT
+Server: Apache
+Vary: Accept-Encoding
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Content-Length: 1351
+Content-Type: text/plain;charset=UTF-8
+
+{"status":0,"body":{"sessionid":"4116-f3b5440b-98a34879","sp":{"timezone":"Australia\/Sydney","forwarder":"fr-eqx-fwd-05.withings.com","fwd_lst":"us-iweb-fwd-01-lxc-01.withings.net,us-iweb-fwd-01-lxc-02.withings.net,us-iweb-fwd-01-lxc-03.withings.net,us-iweb-fwd-01-lxc-04.withings.net,us-iweb-fwd-01.withings.net,us-iweb-fwd-05-lxc-01.withings.net,us-iweb-fwd-05-lxc-02.withings.net,us-iweb-fwd-05.withings.net,us-iweb-fwd-06-lxc-01.withings.net,us-iweb-fwd-06-lxc-02.withings.net,us-iweb-fwd-06.withings.

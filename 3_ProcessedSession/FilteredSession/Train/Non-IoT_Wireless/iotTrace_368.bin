@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Content-Type: application/soap+xml
+User-Agent: WSDAPI
+Content-Length: 1100
+Host: [fe80::725a:fff:fee4:9bc0]:3910
+

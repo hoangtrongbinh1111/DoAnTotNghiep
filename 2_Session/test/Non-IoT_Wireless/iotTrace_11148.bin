@@ -1,0 +1,8 @@
+GET /rootDesc.xml HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Accept: text/xml, application/xml
+Host: 192.168.1.249:49152
+User-Agent: Microsoft-Windows/6.1 UPnP/1.0
+

@@ -1,0 +1,8 @@
+GET /GIAG2.crl HTTP/1.1
+Cache-Control: max-age = 3600
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 22 Sep 2016 02:15:00 GMT
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: pki.google.com
+

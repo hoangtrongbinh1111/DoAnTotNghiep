@@ -1,0 +1,5 @@
+GET /hotspot-detect.html HTTP/1.0
+Host: captive.apple.com
+Connection: close
+User-Agent: CaptiveNetworkSupport-325.10.1 wispr
+

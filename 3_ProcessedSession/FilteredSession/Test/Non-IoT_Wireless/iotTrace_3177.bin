@@ -1,0 +1,9 @@
+GET /GandiStandardSSLCA2.crl HTTP/1.1
+Cache-Control: max-age = 3600
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 22 Sep 2016 12:40:29 GMT
+If-None-Match: "57e3d13d-2b8c5"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: crl.usertrust.com
+

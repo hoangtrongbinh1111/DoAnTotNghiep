@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Thu, 22 Sep 2016 18:22:17 GMT
+Server: Apache
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Content-Length: 12
+Content-Type: text/plain;charset=UTF-8
+
+{"status":0}

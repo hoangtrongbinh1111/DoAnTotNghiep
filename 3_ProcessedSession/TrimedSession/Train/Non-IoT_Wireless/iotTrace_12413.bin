@@ -1,0 +1,9 @@
+GET /us/en/images/i/hpi/header-footer/caas-hf-v3.2/hpi-flag.png HTTP/1.1
+Host: www8.hp.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://www8.hp.com/us/en/system/styles/hpi/caas-hf-v3.2/hpi-hf-r.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: hpeuck_answ=0; optimizelyEndUserId=oeu1474531055812r0.2628525293277515; hpeuck_cktst=1; hpeuck_locale_ar=uk|en|browser; hpeuck_prefs=1111; ddj=-; s_prevPage=cs%3Agw%3Aledm%3Aus%3Aen-us%3A404-rds; hp_last_segment=segment neutral; s_fid=5AA125FCA65C3EC4-2B992673852A3F44; s_ppvl=%5B%5BB%5D%5D; s_cc=true; dmdbase_cdc=DBSET; s_vi=[CS]v1|2B

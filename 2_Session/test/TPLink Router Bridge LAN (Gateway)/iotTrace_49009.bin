@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/javascript
+Date: Fri, 23 Sep 2016 03:29:25 GMT
+Expires: Fri, 23 Sep 2016 03:29:24 GMT
+Server: nginx
+Content-Length: 780
+Connection: keep-alive
+
+
+Bootstrapper._serverTime = '2016-09-23 03:29:25'; Bootstrapper._clientIP = '149.171.37.162'; var psj0 = 'http://nexus.ensighten.com/hp/hpcom_prod/code/f692a9f1f2c82c9cfd63b7abb227cdbe.js?conditionId0=422765';Bootstrapper.insertScript(psj0);var psj1 = 'http://nexus.ensighten.com/hp/hpcom_prod/code/8bd92eb2f114036ad677328a88aa4d27.js?conditionId0=365271';Bootstrapper.insertScript(psj1);var psj2 = 'http://nexus.ensighten.com/hp/hpcom_prod/code/ef16c5cf7948c17d9e56616c53782489.js?conditionId0=433075';Bootstrapper.insertScript(psj2);var psj3 = 'http://nexus.ensighten.com/hp/hpcom_prod/code/6f7c058fed26e966e7bcd2a2f43b58b6.js?conditionId0=433490';Bootstrapper.loadScriptCallback(psj3, Bootstrapper.callOnPageSpecificCompletion);Bootstrapper.setPageSpecificDataDefinitionIds([])

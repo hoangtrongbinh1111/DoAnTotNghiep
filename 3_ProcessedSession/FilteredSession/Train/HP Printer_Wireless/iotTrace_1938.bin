@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: gSOAP/2.7
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 1322
+Connection: close
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope" xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:addressing="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:nprt="http://schemas.microsoft.com/windows/2006/08/wdp/print" xmlns:UNS1="http://www.microsoft.com/windows/test/testdevice/11/2005" xmlns:pnpx="http://schemas.microsoft.com/windows/pnpx/2005/10" xmlns:wstransfer="http://schemas.xmlsoap.org/ws/2004/09/transfer" xmlns:wse="http://schemas.xmlsoap.org/ws/2004/08/eventing" xmlns:xop="http://www.w3.org/2004/08/xop/include" xmlns:mex="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wscn="http://schemas.microsoft.com/windows/2006/08/wdp/scan"><SOAP-ENV:Header><addressing:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</addressing:To><addressing:Action>http://schemas.xmlsoap.org/ws/2004/08/eventing/UnsubscribeResponse</addressing:Action><addressing:MessageID>urn:uuid:22ac20e0-f7d7-1f22-8880-705a0fe49bc0</addressing:MessageID><addressing:RelatesTo>urn:uuid:8eb2ce2f-eff5-47bf-8de7-6884f986efce</addressing:RelatesTo></SOAP-ENV:Header><SOAP-ENV:Body></SOAP-ENV:Body></SOAP-E

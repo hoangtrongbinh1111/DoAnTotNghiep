@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=604800
+Content-Type: image/svg+xml
+Last-Modified: Wed, 21 Sep 2016 17:36:43 GMT
+ETag: "8131b2b72e14d21:0"
+Content-Length: 611
+Accept-Ranges: bytes
+Date: Fri, 23 Sep 2016 02:37:35 GMT
+Via: 1.1 varnish
+Age: 118788
+Connection: keep-alive
+X-Served-By: cache-syd1623-SYD
+X-Cache: HIT
+X-Cache-Hits: 6869
+X-Timer: S1474598255.203222,VS0,VE0
+Vary: Accept-Encoding
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 13.6 13.6" style="enable-background:new 0 0 13.6 13.6;" xml:space="preserve">
+    <g id="add-circle_6_">
+        <path fill="#6A7177" d="M11.4,2.3c-2.5-2.5-6.6-2.5-9.1,0s-2.5,6.6,0,9.1s6.6,2.5,9.1,0S13.9,4.8,11.4,2.3z M8.6,9.5
+		L6.8,7.7L5,9.5L4.1,8.6l1.8-1.8L4.1,5L5,4.1l1.8,1.8l1.8-1.8L9.5,5L7.7,6.8l1.8,1.8L8.6,9.5z"/>
+    </g>
+</svg>

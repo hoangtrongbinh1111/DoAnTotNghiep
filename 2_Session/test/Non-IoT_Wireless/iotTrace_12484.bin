@@ -1,0 +1,9 @@
+GET /Js/snippet-javascript.en.js?v=cc5508c2e17e HTTP/1.1
+Host: cdn.sstatic.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://stackoverflow.com/questions/18175489/python-soap-using-requests
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+

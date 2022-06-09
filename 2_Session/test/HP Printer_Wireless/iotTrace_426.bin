@@ -1,0 +1,18 @@
+ypeof="String" length="64" elementXPath="al:User/al:Password" access="writeOnly"/>
+       <alcap:PermissionSupport access="readWrite">
+           <alcap:Permission>IPP_Print</alcap:Permission>
+           <alcap:Permission>IPP_PrintBlackOnly</alcap:Permission>
+           <alcap:Permission>IPP_None</alcap:Permission>
+       </alcap:PermissionSupport>
+   </alcap:User>
+
+   <alcap:Properties>
+      <alcap:EnableDisableRemoveSupport access="readWrite">
+          <alcap:EnableDisableRemove>enabled</alcap:EnableDisableRemove>
+          <alcap:EnableDisableRemove>disabled</alcap:EnableDisableRemove>
+          <alcap:EnableDisableRemove>removed</alcap:EnableDisableRemove>
+      </alcap:EnableDisableRemoveSupport>
+   </alcap:Properties>
+
+   <alcap:MaxUsers access="readOnly">50</alcap:MaxUsers>
+</alcap:AccessListCap>

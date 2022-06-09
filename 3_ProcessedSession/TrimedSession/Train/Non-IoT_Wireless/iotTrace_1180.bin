@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+	<specVersion>
+		<major>1</major>
+		<minor>0</minor>
+	</specVersion>
+	<device>
+		<UDN>uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8</UDN>
+		<friendlyName>DAN-PC: Dan:</friendlyName>
+		<deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
+		<manufacturer>Microsoft Corporation</manufacturer>
+		<manufacturerURL>http://www.microsoft.com</manufacturerURL>
+		<modelName>Windows Media Player Sharing</modelName>
+		<modelNumber>12.0</modelNumber>
+		<modelURL>http://go.microsoft.com/fwlink/?LinkId=105926</modelURL>
+		<serialNumber>{2347C15F-F93D-433B-BE10-5760835AD3D7}</serialNumber>
+		<dlna:X_DLNADOC xmlns:dlna="urn:schemas-dlna-org:device-1-0">DMS-1.50</dlna:X_DLNADOC>
+		<microsoft:magicPa

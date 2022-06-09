@@ -1,0 +1,8 @@
+POST /cgi-bin/event HTTP/1.1
+User-Agent: Withings UserAgent
+Host: babyws.withings.net
+Accept: */*
+Content-Length: 220
+Content-Type: application/x-www-form-urlencoded
+
+action=store&sessionid=5117-f07b2d4f-54cf9dd6&events={"events":[{"type":11,"measure":{"value": "1", "unit":"0"},"threshold":{"value": "16216", "unit":"0"},"activated":1,"date":"0","eventid":"347075420","duration":"15"}]}

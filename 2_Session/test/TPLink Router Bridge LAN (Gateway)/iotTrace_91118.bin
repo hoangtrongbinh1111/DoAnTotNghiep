@@ -1,0 +1,8 @@
+HTTP/1.1 304 Not Modified
+Content-Type: application/pkix-crl
+Last-Modified: Thu, 22 Sep 2016 05:01:16 GMT
+ETag: "b2b568598e14d21:0"
+Cache-Control: max-age=900
+Date: Fri, 23 Sep 2016 02:46:21 GMT
+Connection: keep-alive
+

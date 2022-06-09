@@ -1,0 +1,7 @@
+HTTP/1.1 400 Bad Request
+Server: gSOAP/2.7
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 1600
+Connection: close
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope" xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:addressing="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:wprt="http://schemas.microsoft.com/windows/2006/08/wdp/print" xmlns:UNS1="http://www.microsoft.com/windows/test/testdevice/11/2005" xmlns:pnpx="http://schemas.microsoft.com/windows/pnpx/2005/10" xmlns:wstransfer="http://schemas.xmlsoap.org/ws/2004/09/transfer" xmlns:wse="http://schemas.xmlsoap.org/ws/2004/08/eventing" xmlns:xop="http://www.w3.org/2004/08/xop/include" xmlns:mex="http://schemas.xmlsoap.org/ws/2004/09/mex"><SOAP-ENV:Header><addressing:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</addressing:To><addressing:Action>http://schemas.xmlsoap.org/ws/2004/08/addressing/fault</addressing:Action><addressing:MessageID>uuid:22a53c24-da6e-1f22-acd6-705a0fe49bc0</addressing:MessageID><addressing:RelatesTo>urn:uuid:e14f736d-9fa3-4e7c-926a-e94da6bfae1d</addressing:RelatesTo></SOAP-ENV:Header><SOAP-ENV:Body><SOAP-ENV:Fault><SOAP-ENV:Code><SOAP-ENV:Value>SOAP-ENV:Sender</SOAP-ENV:Value><SOAP-ENV:Subcode><SOAP-ENV:Value>wprt:

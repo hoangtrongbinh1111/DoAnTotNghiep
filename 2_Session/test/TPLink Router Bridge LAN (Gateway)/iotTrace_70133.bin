@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Request-Guid: 2075fa0f-f79a-4e46-84c7-47f7f0031e18
+Content-Length: 19622
+Accept-Ranges: bytes
+Date: Fri, 23 Sep 2016 02:36:23 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-syd1625-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1474598182.837171,VS0,VE219
+Vary: Accept-Encoding
+X-DNS-Prefetch-Control: off
+

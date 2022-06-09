@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: application/javascript; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+X-Request-Guid: 01b146e9-4944-4514-81b6-6d41ab7c8341
+Content-Length: 1264
+Accept-Ranges: bytes
+Date: Fri, 23 Sep 2016 02:37:35 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-syd1623-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1474598254.845505,VS0,VE216
+X-DNS-Prefetch-Control: off
+

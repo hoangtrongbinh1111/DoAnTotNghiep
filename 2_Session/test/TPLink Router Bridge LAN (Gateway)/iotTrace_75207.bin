@@ -1,0 +1,8 @@
+HTTP/1.1 304 Not Modified
+Content-Type: application/javascript; charset=utf-8
+Last-Modified: Sun, 18 Sep 2016 11:54:22 GMT
+ETag: "783545dec369d9a5ec87a7978c685943"
+Cache-Control: max-age=31536000
+Date: Fri, 23 Sep 2016 03:09:25 GMT
+Connection: keep-alive
+

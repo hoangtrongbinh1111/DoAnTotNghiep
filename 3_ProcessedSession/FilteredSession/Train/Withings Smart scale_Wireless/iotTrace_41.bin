@@ -1,0 +1,8 @@
+POST /cgi-bin/v2/weather HTTP/1.1
+User-Agent: Withings UserAgent
+Host: scalews.withings.net
+Accept: */*
+Content-Length: 68
+Content-Type: application/x-www-form-urlencoded
+
+action=getforecast&sessionid=4381-f67fba95-013861ba&short=1&enrich=t

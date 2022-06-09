@@ -1,0 +1,7 @@
+GET /iptime/?hsh=4706528081bcb41a15730c94ea035b31&usr=e076d033bb85 HTTP/1.1
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Accept-Language: en,*
+User-Agent: Mozilla/5.0
+Host: iptime.pix-star.com
+

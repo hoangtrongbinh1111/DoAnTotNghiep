@@ -1,0 +1,6 @@
+GET /generate_204 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Host: connectivitycheck.gstatic.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

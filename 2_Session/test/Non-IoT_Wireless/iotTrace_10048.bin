@@ -1,0 +1,6 @@
+GET /control/feature/tags/ut.json HTTP/1.1
+Host: cdn.ap.bittorrent.com
+User-Agent: BTWebClient/3480(42576)
+Accept-Encoding: gzip
+Connection: Close
+

@@ -1,0 +1,10 @@
+.timing.fetchStart=1474600156940&qos.performance.timing.redirectEnd=0&qos.performance.timing.redirectStart=0&qos.performance.timing.unloadEventEnd=0&qos.performance.timing.unloadEventStart=0&qos.performance.timing.navigationStart=1474600156940 HTTP/1.1
+Host: metrics.brightcove.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: _bc_uuid=db0c3471-c039-46b5-8b50-f02d28e7acac
+

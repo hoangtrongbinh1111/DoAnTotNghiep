@@ -1,0 +1,10 @@
+GET /jument/fonts/din/bold/DINWeb-Bold.woff HTTP/1.1
+Host: www.collegehumor.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Origin: http://www.dorkly.com
+Accept: */*
+Referer: http://0.static.dorkly.cvcdn.com/css/packages/6d68b063a5d5f3a321ef2048eaea8b60.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+

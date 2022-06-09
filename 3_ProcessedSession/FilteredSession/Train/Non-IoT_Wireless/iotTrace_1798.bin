@@ -1,0 +1,11 @@
+34aea2844ea24e3d19524e3d195,notrack=,plugins=9a3dca4900eb319ee48a80d06903490d,cn=75a52518639b3b01cb1f1b8af4bda641&r=12654354 HTTP/1.1
+Host: tags.bluekai.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://www.hp.com/schemas/imaging/con/ledm/jobs/2009/04/30%20../schemas/Jobs.xsd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: bkdc=snv; bku=FyG99BXAckVMYkHP
+

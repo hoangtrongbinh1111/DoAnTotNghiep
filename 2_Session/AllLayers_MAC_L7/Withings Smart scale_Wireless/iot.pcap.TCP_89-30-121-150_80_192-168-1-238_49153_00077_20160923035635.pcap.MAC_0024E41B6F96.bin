@@ -1,0 +1,7 @@
+POST /cgi-bin/v2/measure HTTP/1.1
+User-Agent: Withings UserAgent
+Host: scalews.withings.net
+Accept: */*
+Transfer-Encoding: chunked
+Content-Type: application/x-www-form-urlencoded
+

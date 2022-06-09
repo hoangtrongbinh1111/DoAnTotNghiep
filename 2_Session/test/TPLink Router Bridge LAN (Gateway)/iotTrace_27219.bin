@@ -1,0 +1,9 @@
+HTTP/1.1 304 Not Modified
+Server: nginx
+Date: Fri, 23 Sep 2016 03:47:42 GMT
+Last-Modified: Thu, 22 Sep 2016 12:40:29 GMT
+Connection: close
+ETag: "57e3d13d-2b8c5"
+X-CCACDN-Mirror-ID: fsedcacrl4
+Cache-Control: max-age=3600
+

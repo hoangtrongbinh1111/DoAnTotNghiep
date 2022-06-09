@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: fastpokemap.se
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: __cfduid=d3ddb8b2756419de370ec31483dd3b09c1474127164; filter=142x24x144x15x69x12x10x36x35x132x85x84x133x23x125x101x102x103x22x136x42x118x55x76x75x116x135x124x14x115x99x98x126x81x82x52x11x151x150x146x122x34x31x29x32x30x33x46x47x53x18x17x16x25x127x60x61x62x137x54x26x20x19x112x111x27x28x123x117x119x80x79x143x21x121x120x114x72x73x134x49x48x71x100x13x70x145x41; __auc=c0024eab15738d37b963d6ce3d3; _ga=GA1.2.1481523093.1474127167
+

@@ -1,0 +1,17 @@
+HTTP/1.1 302 Found
+Date: Fri, 23 Sep 2016 02:43:22 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Location: http://r4---sn-55goxu-ntqe.gvt1.com/edgedl/release2/11dmqli61dlxmy9gri9fmyutfppgouww6q845cv06s65nml3f17gma4q87fxzi3m9lam53qvcjb5lf8bmap9vz2u4ndc956x2mf9/159_all_sthset.crx?cms_redirect=yes&expire=1474613002&ip=149.171.37.162&ipbits=0&mm=28&mn=sn-55goxu-ntqe&ms=nvh&mt=1474598534&mv=m&pl=16&shardbypass=yes&sparams=expire,ip,ipbits,mm,mn,ms,mv,pl,shardbypass&signature=57A3A94EAC908E399AC9F02B04C1F7124F6F9C0B.62FB1C3AF34FB76AEA83CF364C98D0F9430B2EB2&key=cms1
+Content-Type: text/html; charset=UTF-8
+Server: ClientMapServer
+Content-Length: 707
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://r4---sn-55goxu-ntqe.gvt1.com/edgedl/release2/11dmqli61dlxmy9gri9fmyutfppgouww6q845cv06s65nml3f17gma4q87fxzi3m9lam53qvcjb5lf8bmap9vz2u4ndc956x2mf9/159_all_sthset.crx?cms_redirect=yes&amp;expire=1474613002&amp;ip=149.171.37.162&amp;ipbits=0&amp;mm=28&amp;mn=sn-55goxu-ntqe&amp;ms=nvh&amp;mt=1474598534&amp;mv=m&amp;pl=16&amp;shardbypass=yes&amp;sparams=expire,ip,ipbits,mm,mn,ms,mv,pl,shardbypass&amp;signature=57A3A94EAC908E399AC9F02B04C1F7124F6F9C0B.62FB1C3AF34FB76AEA83CF364C98

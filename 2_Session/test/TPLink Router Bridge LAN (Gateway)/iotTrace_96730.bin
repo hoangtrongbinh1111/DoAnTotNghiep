@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Sep 2016 02:38:27 GMT
+Server: Apache
+Vary: Accept-Encoding
+X-Powered-By: BeagleBone Black
+X-Recruitment: You should work for us! Find jobs at http://www.withings.com/us/careers/
+Content-Length: 1359
+Content-Type: text/plain;charset=UTF-8
+
+{"status":0,"body":{"sessionid":"7179-cc324052-f8f9369c","sp":{"timezone":"Australia\/Sydney","forwarder":"us-iweb-fwd-06-lxc-01.withings.net","fwd_lst":"us-iweb-fwd-01-lxc-01.withings.net,us-iweb-fwd-01-lxc-02.withings.net,us-iweb-fwd-01-lxc-03.withings.net,us-iweb-fwd-01-lxc-04.withings.net,us-iweb-fwd-01.withings.net,us-iweb-fwd-05-lxc-01.withings.net,us-iweb-fwd-05-lxc-02.withings.net,us-iweb-fwd-05.withings.net,us-iweb-fwd-06-lxc-01.withings.net,us-iweb-fwd-06-lxc-02.withings.net,us-iweb-fwd-06.withings.net,us-ovh-fwd-01.withings.net,us-ovh-fwd-02.withings.net,us-ovh-vm-01.withings.net,fr-eqx-fwd-01.withings.com,fr-eqx-fwd-02.withings.com,fr-eqx-fwd-03.withings.com,fr-eqx-fwd-04.withings.com,fr-eqx-fwd-05.withings.com,fr-eqx-fwd-06.withings.com,fr-eqx-fwd-07.withings.com,fr-eqx-fwd-08.withings.com,fr-eqx-fwd-09.withings.com,fr-on-fwd-01.withings.net,fr-on-fwd-02.withings.net,fr-on-fwd-03.withings.net,fr-on-vm-02-lxc-01.withings.net,fr-on-vm-02-lxc-02.withings.net,fr-on-vm-02-lxc-03.withings.net,fr-on-vm-02-lxc-04.withings.net,fr-on-vm-02-lxc-05.withings.net,fr-on-vm-02-lxc-06.withings.net,fr-ovh-fwd-01.withings.net,fr-ovh-fwd-02.withings.net,fr-ov

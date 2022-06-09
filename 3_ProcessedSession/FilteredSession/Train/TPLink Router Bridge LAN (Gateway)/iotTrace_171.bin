@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Length: 4445
+Connection: keep-alive
+Date: Thu, 22 Sep 2016 17:55:47 GMT
+Last-Modified: Tue, 30 Aug 2016 21:15:59 GMT
+ETag: "05d79419b8bda630e0ba32fbe0094cf2"
+x-amz-version-id: 4VDmWfFXx0xddY3wSES.w6Rdacjt8PwU
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 34419
+X-Cache: Hit from cloudfront
+Via: 1.1 9baa2b0673d64e31b59031d8b35561e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 3raiJsGTl49OaSAOsiFypBRqNcNfw7FkdM_PUDscLyA4pd0_QEJSTQ==
+
+var Dmdbase_CDC=window.Dmdbase_CDC||{},Dmdbase_CDC={cookieName:"dmdbase_cdc",dimensions:{},logging:!1,enableTNT:!1,enableAnalytics:!0,DB_DEFAULT_VALUE:"ISP Visitor",NOT_IN_AWLIST:"Not In List",NOT_ASSIGNED_AWLIST_VALUE:"In List No Value",CompanyProfile:{},targetAttributes:"demandbase_sid company_name industry sub_industry employee_range revenue_range audience audience_segment state country_name marketing_alias b2b b2c, web_site watch_list_account_type watch_list_account_status".split(" "),useStorage:!0,
+useCookie:!0,init:function(){"true"===this.cdc_getParamByName("cdc_debug")&&(this.logging=!0)},setupDimensions:function(){this.dimensions.set1={demandbase_sid:10,company_name:40,industry:40,sub_industry:40,employee_range:30,revenue_range:10,audience:30,audience_segment:30};this.dimensions.set2={marketing_alias:35,city:50,state:5,country_name:20,watch_list_account_type:30,watch_list_account_status:30,watch_list_campaign_code:30,watch_list_account_owner:30}},callback:function(a){if(

@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Connection: close
+Location: http://ads.yahoo.com/cms/v1?esig=1~8096029213fdb49bc6c9b48510f5dc96e3146981&nwid=10000856083&sigv=1
+Set-Cookie: d=EIwBoQEBhhaB0QTfkywpK--Doqiy0-zUocv7FL73a4uiW4rCggTt4bKfTin5IJnxf6o7KtWh7oEMjRDekpGOKD_9sQ7aLR__IL-3olkrwQ37woKLKxACGLvGqgLq19gLA-CBag; expires=Thu, 22-Dec-2016 03:09:26 GMT; path=/; domain=.quantserve.com
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAo PSDo OUR SAMa IND COM NAV"
+Cache-Control: private, no-cache, no-store, proxy-revalidate
+Pragma: no-cache
+Expires: Fri, 04 Aug 1978 12:00:00 GMT
+Content-Length: 0
+Date: Fri, 23 Sep 2016 03:09:26 GMT
+Server: QS
+

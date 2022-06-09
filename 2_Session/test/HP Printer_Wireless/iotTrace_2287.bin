@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: gSOAP/2.7
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 1789
+Connection: close
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope" xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:addressing="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wscn="http://schemas.microsoft.com/windows/2006/08/wdp/scan" xmlns:xop="http://www.w3.org/2004/08/xop/include"><SOAP-ENV:Header><addressing:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</addressing:To><addressing:Action>http://schemas.microsoft.com/windows/2006/08/wdp/scan/GetScannerElementsResponse</addressing:Action><addressing:MessageID>uuid:22a39442-d35d-1f22-9f05-705a0fe49bc0</addressing:MessageID><addressing:RelatesTo>urn:uuid:b1822bc3-6fdc-4976-8315-71ea0c37d123</addressing:RelatesTo></SOAP-ENV:Header><SOAP-ENV:Body><wscn:GetScannerElementsResponse><wscn:ScannerElements><wscn:ElementData Valid="true" Name="wscn:DefaultScanTicket"><wscn:DefaultScanTicket><wscn:JobDescription><wscn:JobName>Default Job</wscn:JobName><wscn:JobOriginatingUserName>Default User Name</wscn:JobOriginatingUserName></wscn:JobDescription><wscn:DocumentParameters><wscn:Format>exif</wscn:Format><wscn:CompressionQualityFactor>50</wscn:CompressionQualityFactor><wscn:InputSource>Platen</wscn:Inp

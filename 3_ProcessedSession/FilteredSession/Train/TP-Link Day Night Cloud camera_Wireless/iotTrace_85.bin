@@ -1,0 +1,6 @@
+GET /status HTTP/1.0
+User-Agent: hehe
+Accept: */*
+Host: aps1-relay.tplinkcloud.com
+Connection: close
+

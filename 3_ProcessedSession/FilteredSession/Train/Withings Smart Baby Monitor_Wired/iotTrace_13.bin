@@ -1,0 +1,8 @@
+POST /cgi-bin/session HTTP/1.1
+User-Agent: Withings UserAgent
+Host: babyws.withings.net
+Accept: */*
+Content-Length: 46
+Content-Type: application/x-www-form-urlencoded
+
+action=delete&sessionid=2360-2165d02f-7b71298a

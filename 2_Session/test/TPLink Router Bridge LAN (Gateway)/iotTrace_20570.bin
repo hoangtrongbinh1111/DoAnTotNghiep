@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 629
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Fri, 23 Sep 2016 03:10:07 GMT
+
+<?xml version="1.0" encoding="UTF-8"?>
+<check-resp version="2.0" id="aaec7aff-51fb-4f24-a36f-dc97a95d9d6e">
+	<rid>62f76e73-b749-47cf-9f32-6a2ad643c868</rid>
+	<type>1</type>
+	<match>0</match>
+	<action>5</action>
+	<threat>Unknown</threat>
+	<descriptionKey>0</descriptionKey>
+	<categoryKey>0</categoryKey>
+	<severity>2</severity>
+	<generationTime></generationTime>
+	<submit>1</submit>
+	<fileReputation>0</fileReputation>
+	<signature>BmRESK+SHI0yZBLMyimRwD7XbiZShvMeCmgYw1I6jX/fGKEi4v2JrLG2C6weLfULis3KU6s5GX48/7jS4CACIZINahHtfueKQ0XCwybmgtGBNcLvvZSy9ukD9o5VClT7lE7vcnK5DSpvn3MMy+xGqSOj5KsvCy3Fe4R4nCzpIW8=</signature>
+</check-resp>

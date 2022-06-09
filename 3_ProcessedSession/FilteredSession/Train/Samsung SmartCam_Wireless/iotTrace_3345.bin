@@ -1,0 +1,7 @@
+POST /web/event.stw HTTP/1.1
+Host: www.samsungsmartcam.com
+Accept: */*
+Content-Length: 87
+Content-Type: application/x-www-form-urlencoded
+
+&username=&serial=KHNL6V2H20003LX&msg=&time=Sep-23-2016 10:03:56&type=m&youUrl=&picUrl=

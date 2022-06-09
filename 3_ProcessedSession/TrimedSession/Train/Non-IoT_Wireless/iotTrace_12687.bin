@@ -1,0 +1,25 @@
+
+				<depth>24</depth>
+				<url>/upnphost/udhisapi.dll?content=uuid:1056d5f7-107b-44e0-a094-aefad7eddc2f</url>
+			</icon>
+			<icon>
+				<mimetype>image/png</mimetype>
+				<width>48</width>
+				<height>48</height>
+				<depth>24</depth>
+				<url>/upnphost/udhisapi.dll?content=uuid:bb3f074a-0cc6-4b3b-9577-18048077cf23</url>
+			</icon>
+			<icon>
+				<mimetype>image/bmp</mimetype>
+				<width>48</width>
+				<height>48</height>
+				<depth>16</depth>
+				<url>/upnphost/udhisapi.dll?content=uuid:929d5dab-f78a-46ef-a006-0f43dddd004a</url>
+			</icon>
+			<icon>
+				<mimetype>image/jpeg</mimetype>
+				<width>32</width>
+				<height>32</height>
+				<depth>24</depth>
+				<url>/upnphost/udhisapi.dll?content=uuid:5eabe811-27e1-44f8-ae55-469629a2a63f</url>
+			</icon>

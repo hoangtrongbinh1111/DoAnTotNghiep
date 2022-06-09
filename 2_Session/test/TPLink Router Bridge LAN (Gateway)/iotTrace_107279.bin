@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+Date: Fri, 23 Sep 2016 04:07:48 GMT
+Content-Length: 506
+
+MCwCFEgBCjt1d6qXv/BFR/nzVOhHCYvDAhQD7n3rRiN7Y+Aik+nffoySkFGtFw==
+
+<avi>
+<nextHeartbeatTime>14000</nextHeartbeatTime>
+<nextUpdateTime>0</nextUpdateTime>
+<nextCheckTime>0</nextCheckTime>
+<nextWhiteListTime>2504</nextWhiteListTime>
+<disabledOnlineVerification>0</disabledOnlineVerification>
+<nextSendStatsTime>0</nextSendStatsTime>
+<isSubmitAvailable>1</isSubmitAvailable>
+<sendData type="2" action="2"/>
+<sendData type="1" action="2"/>
+<sendData type="3" action="2"/>
+<sendData type="11" action="2"/>
+</avi>

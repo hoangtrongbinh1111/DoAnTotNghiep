@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: gSOAP/2.7
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 1282
+Connection: close
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope" xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:addressing="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wscn="http://schemas.microsoft.com/windows/2006/08/wdp/scan" xmlns:xop="http://www.w3.org/2004/08/xop/include"><SOAP-ENV:Header><addressing:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</addressing:To><addressing:Action>http://schemas.microsoft.com/windows/2006/08/wdp/scan/GetScannerElementsResponse</addressing:Action><addressing:MessageID>uuid:22a39445-d35d-1f22-8e26-705a0fe49bc0</addressing:MessageID><addressing:RelatesTo>urn:uuid:893d09a1-9bd3-4c61-b44d-a90f2e505c54</addressing:RelatesTo></SOAP-ENV:Header><SOAP-ENV:Body><wscn:GetScannerElementsResponse><wscn:ScannerElements><wscn:ElementData Valid="true" Name="wscn:ScannerStatus"><wscn:ScannerStatus><wscn:ScannerCurrentTime>1970-01-23T12:31:19Z</wscn:ScannerCurrentTime><wscn:ScannerState>Idle</wscn:ScannerState><wscn:ActiveConditions></wscn:ActiveConditions></wscn:ScannerStatus></wscn:ElementData></wscn:ScannerElements></wscn:GetScannerElementsResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>

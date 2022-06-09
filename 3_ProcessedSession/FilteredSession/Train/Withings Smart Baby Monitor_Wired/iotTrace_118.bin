@@ -1,0 +1,8 @@
+POST /cgi-bin/session HTTP/1.1
+User-Agent: Withings UserAgent
+Host: babyws.withings.net
+Accept: */*
+Content-Length: 97
+Content-Type: application/x-www-form-urlencoded
+
+action=new&auth=00:24:e4:11:18:a8&hash=cef3aeb2553c4768466a42ad679f5b2d&duration=120&currentfw=85

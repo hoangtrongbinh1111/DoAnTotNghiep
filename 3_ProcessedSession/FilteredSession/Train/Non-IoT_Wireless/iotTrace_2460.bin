@@ -1,0 +1,9 @@
+GET /pki/crl/products/CodeSignPCA2.crl HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Mon, 16 Apr 2012 23:49:48 GMT
+If-None-Match: "0f6669b2b1ccd1:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: crl.microsoft.com
+

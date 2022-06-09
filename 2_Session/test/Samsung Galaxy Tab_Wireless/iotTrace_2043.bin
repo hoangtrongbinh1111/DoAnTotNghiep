@@ -1,0 +1,6 @@
+GET /sdk/getversions.php?phonelanguage=en_AU&cmlanguage=en_AU&apkversion=5.5.0.1002&dataversion=2016.3.18.1610&sdkversion=6.0.1&device=SM-T810&networkstate=wifi&channelid=203001&pkg=com.cleanmaster.sdk&currenttime=1474574206479 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Host: up.cm.ksmobile.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

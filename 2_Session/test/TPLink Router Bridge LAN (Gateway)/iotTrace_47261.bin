@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 569
+Connection: keep-alive
+Date: Thu, 22 Sep 2016 20:10:37 GMT
+Last-Modified: Fri, 27 May 2016 09:00:27 GMT
+ETag: "0622103047984ba0acae0fb978ef2f1b"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 18625
+X-Cache: Hit from cloudfront
+Via: 1.1 9baa2b0673d64e31b59031d8b35561e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: ew5T9AuYoJ02of4TEP76mBunAOj2PWIFClU7w7QoHcF4cghH4A2Xxg==
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><versioninfo><url>http://svc-cf.spd.samsungdm.com/</url><orgUrl>http://svc-cf.spd.samsungdm.com/</orgUrl><fileName>version.xml</fileName><policy><model>SM-T810</model><version androidVer="6.0.1" policyVer="SEPF_SECMOBILE_6.0.1_0011"/><version androidVer="5.0.2-1" policyVer="SEPF_SM-T810_5.0.2-1_0051"/></policy><aasaPolicy/><polling><periodUnit>day</periodUnit><period>7</period><time>9</time><range>23</range></polling><statusReport><period>14</period><time>0</time><range>23</range></statusReport></versioninfo>

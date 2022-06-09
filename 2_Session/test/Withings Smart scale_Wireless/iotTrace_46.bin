@@ -1,0 +1,8 @@
+POST /cgi-bin/measure HTTP/1.1
+User-Agent: Withings UserAgent
+Host: scalews.withings.net
+Accept: */*
+Content-Length: 281
+Content-Type: application/x-www-form-urlencoded
+
+action=batchstore&sessionid=2202-b4630abb-d4e9faa4&macaddress=00:24:e4:1b:6f:96&devtype=1&category=1&attribstatus=0&measuregrps=%7B%22measuregrps%22%3A%5B%7B%22meastime%22%3A1474526733%2C%22measures%22%3A%5B%7B%22value%22%3A68068%2C%22type%22%3A1%2C%22unit%22%3A%2D3%7D%5D%7D%5D%7D

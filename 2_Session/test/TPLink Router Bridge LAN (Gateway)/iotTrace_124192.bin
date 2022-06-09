@@ -1,0 +1,12 @@
+HTTP/1.1 204 No Content
+Server: nginx/1.7.9
+Content-Type: image/gif
+P3P: policyref="http://trc.taboola.com/p3p.xml", CP="NOI DSP COR LAW NID CURa ADMa DEVa PSAa PSDa OUR BUS IND UNI COM NAV INT DEM"
+Access-Control-Allow-Origin: http://www.dorkly.com
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Date: Fri, 23 Sep 2016 03:09:28 GMT
+Connection: keep-alive
+X-Cdn: Served-By-Akamai
+

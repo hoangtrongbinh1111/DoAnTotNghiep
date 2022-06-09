@@ -1,0 +1,10 @@
+GET /soi.gif?an=Y2NiePAxb3LU48seDCDAysjw0o0ZSDIysDMC-RwgQZbbqcwM4jfPfQ9-fNeeBSzJyAUkWOqAkvzMQKIqmZlBcUNRxsS3D-xZkRSwgXSDzOFnARKn9zMxOCU8vaB0-6Q9M5IqkIJXIcwMKdb3_XunP0IxASQHNgZsD8OHVL7XfvOPKwcbAQA&at=0&pt=281 HTTP/1.1
+Host: clc.stackoverflow.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://stackoverflow.com/questions/18175489/python-soap-using-requests
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: prov=8f3f4e0a-0374-4ed1-8fde-ce4c5b88a928; __qca=P0-1179434157-1469154012488; _ga=GA1.2.97794521.1428070814; _gat=1
+

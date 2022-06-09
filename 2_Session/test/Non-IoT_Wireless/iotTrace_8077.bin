@@ -1,0 +1,11 @@
+GET /questions/41506/how-to-know-what-hash-function-have-been-used HTTP/1.1
+Host: security.stackexchange.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.google.com.au/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: prov=4cecbb02-9262-423b-9f20-6fa509add364; __qca=P0-1499889796-1470383184953; _ga=GA1.2.124627015.1428149740
+

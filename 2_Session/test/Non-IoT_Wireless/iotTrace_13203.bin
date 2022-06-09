@@ -1,0 +1,9 @@
+GET /pkiops/crl/MicSecSerCA2011_2011-10-18.crl HTTP/1.1
+Cache-Control: max-age = 579
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Wed, 27 Jul 2016 05:01:19 GMT
+If-None-Match: "1fc09de9c3e7d11:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.microsoft.com
+

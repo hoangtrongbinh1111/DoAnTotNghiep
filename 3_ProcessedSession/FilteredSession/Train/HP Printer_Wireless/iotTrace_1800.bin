@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<al:Properties  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dd="http://www.hp.com/schemas/imaging/con/dictionaries/1.0/" xmlns:al="http://www.hp.com/schemas/imaging/con/ledm/accesslist/2013/05/07" xsi:schemaLocation="http://www.hp.com/schemas/imaging/con/ledm/accesslist/2013/05/07 ../../schemas/AccessList.xsd">
+    <dd:EnableDisableRemove>disabled</dd:EnableDisableRemove>
+</al:Properties>

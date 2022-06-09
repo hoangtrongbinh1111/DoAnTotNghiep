@@ -1,0 +1,9 @@
+GET /edgedl/release2/11dmqli61dlxmy9gri9fmyutfppgouww6q845cv06s65nml3f17gma4q87fxzi3m9lam53qvcjb5lf8bmap9vz2u4ndc956x2mf9/159_all_sthset.crx?cms_redirect=yes&expire=1474613001&ip=149.171.37.162&ipbits=0&mm=28&mn=sn-55goxu-ntqe&ms=nvh&mt=1474598534&mv=m&pl=16&shardbypass=yes&sparams=expire,ip,ipbits,mm,mn,ms,mv,pl,shardbypass&signature=2AADDA1C200F2496F8F5951784F01637B0F75E1D.47EC13DBFB8CDC9544D2F4C3DFCF7D717B2A152E&key=cms1 HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: identity
+If-Unmodified-Since: Thu, 22 Sep 2016 22:23:17 GMT
+Range: bytes=0-5370
+User-Agent: Microsoft BITS/7.5
+Host: r4---sn-55goxu-ntqe.gvt1.com
+

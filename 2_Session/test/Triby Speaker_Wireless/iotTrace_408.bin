@@ -1,0 +1,5 @@
+GET /update/triby/update.pup?mac=18:B7:9E:02:20:44&machine=triby&board_name=TRIBY_V0&revision=5&sub_revision=4271&version=triby-10.48.1&version_build=52.3a.e0&up=86438&hwcap=1:0&feature_tag=&board_flags=c:1,ci:0,vl:0,cv:0,p:1 HTTP/1.1
+Host: developer.invoxia.com
+Range: bytes=0-16383
+Accept: */*
+

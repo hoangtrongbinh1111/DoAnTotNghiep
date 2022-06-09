@@ -1,0 +1,12 @@
+GET /libtrc/impl.227-4-RELEASE.js HTTP/1.1
+Host: cdn.taboola.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: taboola_nr_td_user_id=53e7e688-66b5-4d4c-b352-3a122996083e; taboola_fp_td_user_id=53e7e688-66b5-4d4c-b352-3a122996083e; taboola_mk=v1_t; taboola_usg=EgIIARoQCOSpPhCGkD8QzKg_ENfBQCINCgdibHVla2FpEgIIAQ; stpt=bluekai!-#@1474350509605; t_gid=53e7e688-66b5-4d4c-b352-3a122996083e; t_vpub=Ewjxtz0QBBQTCKPRPhABFBMIp6A_EAQUEwjEBBABFBMIjgYQBRQTCLXFPxABFBMIqsxAEF8UEwiFuD0QBRQTCI3SPxABFBMIpKw9EAEU; akaas_abtesting=2147483647~rv=62~id=dc6ba2d8e7ff5a856000886c9f98b7dc
+If-None-Match: "783545dec369d9a5ec87a7978c685943"
+If-Modified-Since: Sun, 18 Sep 2016 11:54:22 GMT
+

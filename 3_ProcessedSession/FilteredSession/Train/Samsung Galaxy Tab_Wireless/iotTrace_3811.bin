@@ -1,0 +1,12 @@
+REGISTER sip:sip.invoxia.com:5228 SIP/2.0
+Via: SIP/2.0/TCP 192.168.1.239:54037;branch=z9hG4bK62c9da382b005832;rport
+Contact: <sip:smarthomeunsw.gmail.com.smart-0xb48393a8@192.168.1.239:54037;transport=tcp>;expires=600
+Max-Forwards: 70
+To: <sip:smarthomeunsw.gmail.com.smart@sip.invoxia.com:5228>
+From: <sip:smarthomeunsw.gmail.com.smart@sip.invoxia.com:5228>;tag=55b4577a7bae00eb
+Call-ID: 37b860c94b7d7263
+CSeq: 19728 REGISTER
+User-Agent: NVX-JBSIP(Android) Beta version 1.3.1
+Allow: INVITE,ACK,BYE,CANCEL,OPTIONS,REFER,NOTIFY,SUBSCRIBE,INFO,MESSAGE
+Content-Length: 0
+

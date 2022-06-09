@@ -1,0 +1,9 @@
+GET /us/en/images/i/hpi/header-footer/caas-hf-v3.2/hpi-flag.png HTTP/1.1
+Host: www8.hp.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://www8.hp.com/us/en/system/styles/hpi/caas-hf-v3.2/hpi-hf-r.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: hpeuck_answ=0; optimizelyEndUserId=oeu1474531055812r0.2628525293277515; hpeuck_cktst=1; hpeuck_locale_ar=uk|en|browser; hpeuck_prefs=1111; ddj=-; s_prevPage=cs%3Agw%3Aledm%3Aus%3Aen-us%3A404-rds; hp_last_segment=segment neutral; s_fid=5AA125FCA65C3EC4-2B992673852A3F44; s_ppvl=%5B%5BB%5D%5D; s_cc=true; dmdbase_cdc=DBSET; s_vi=[CS]v1|2BF1C77A052C2975-400000C2000082AD[CE]; optimizelySegments=%7B%222087032940%22%3A%22false%22%2C%222090753380%22%3A%22direct%22%2C%222129110424%22%3A%22gc%22%2C%222234042864%22%3A%22none%22%2C%223117980003%22%3A%22true%22%7D; s_ppv=http%253A%2F%2Fwww.hp.com%2Fschemas%2Fimaging%2Fcon%2Fledm%2Fjobs%2F2009%2F04%2F30%252520..%2Fschemas%2FJobs.xsd%2C100%2C100%2C962%2C950%2C962%2C1920%2C1080%2C962%2C1%2CP; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%22n%3Dhttp%253A%252F%252Fwww.hp.com%252Fschemas%252Fimaging%252Fcon%252Fledm%252Fjobs%252F2009%252F04%252F30%252520..%252Fschemas%252FJobs.xsd%26u%3Doeu1474531055812r0.2628525293277515%26wxhr%3Dtrue%26time%3D1474601359.

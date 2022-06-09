@@ -1,0 +1,10 @@
+GET /pixel;r=982188508;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1179434157-1469154012488;ns=0;ce=1;cm=;je=0;sr=1920x1080x24;enc=n;dst=1;et=1474598628899;tzo=-600;ref=https%3A%2F%2Fwww.google.com.au%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F8315209%2Fsending-http-headers-with-python;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.Sending%20http%20headers%20with%20python%2Cdescription.I've%20set%20up%20a%20little%20script%20that%20should%20feed%20a%20client%20with%20html%252E%0A%0Aimport%20socket%0A%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F8315209%2Fsending-http-headers-with-python HTTP/1.1
+Host: pixel.quantserve.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://stackoverflow.com/questions/8315209/sending-http-headers-with-python
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: mc=551e23fc-b9992-2ebe8-f97b4; d=EK4BoQEBhhaB0QTfkywpK--Doqiy0-zUgcv7Fr73a4uiW4rCggTt4bKfTin5IJnxf6o7KtWh7oEMjRDekpGOKD_9sQ7aLR__IL-3olkrwQ37woKLKxACGLvGqgLq19gLA-CBag
+

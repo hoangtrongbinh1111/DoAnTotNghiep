@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-apple-plist
+Last-Modified: Thu, 22 Sep 2016 23:50:31 GMT
+Content-Length: 9027
+Server: Madrid Bagger
+Cache-Control: public, max-age=980
+Date: Fri, 23 Sep 2016 03:12:04 GMT
+Connection: keep-alive
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>signature</key>
+		<data>pv+DoUqC/1zixEur4ZDjwg7tVtwrzMLsgbzmIcDzHgj9VWjVitFmfUQCzKvqqCR5wDTFtGdnz93LW7I945K4Ez6J9N4u4T21LCfv/QCvPhto6L0XzH2qxBATAB0jIg+WHhYpdhQetlFO2F28QC+5zi6Kvefp5KJEHlVn5JFKu1EJu7tBabWW+8IYIoJjapw3+HGiso90eaol1/Cmt0QhV/tVWKRNwzc+N9AS68IkRK8b+DXeSNA9X+s6BjlP1iMUkQryvSC7U3WqDrZT2LLppr5UBD60LY1NWPHZkLFtSizpdKfVbhIIqUlYNjp8Vdy/SBgrnPTkvKNV4edfIfJZzQ==</data>
+
+		<key>certs</key>
+		<array>
+			<data>MIIFPTCCBCWgAwIBAgIRAIgxe8MPSH1CAAAAAFDY4nswDQYJKoZIhvcNAQELBQAwgboxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1FbnRydXN0LCBJbmMuMSgwJgYDVQQLEx9TZWUgd3d3LmVudHJ1c3QubmV0L2xlZ2FsLXRlcm1zMTkwNwYDVQQLEzAoYykgMjAxMiBFbnRydXN0LCBJbmMuIC0gZm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxLjAsBgNVBAMTJUVudHJ1c3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBMMUswHhcNMTYwNzE1MTgyMDQ3WhcNMTgwNzEyMTg1MDQ2WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTESMBAGA1UEBxMJQ3VwZXJ0aW5vMRMwEQYDVQQKEwpBcHBsZSBJbmMuMR0wGwYDVQQDExRpbml0LXAwMW1kLmFwcGxlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMWTbruOR7dmD3kge/iM9X8B8rN1T3UTvJHGRVRMF3EMf

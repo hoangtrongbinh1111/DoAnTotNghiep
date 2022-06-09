@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.1
+Date: Fri, 23 Sep 2016 07:17:46 GMT
+Content-Type: application/xhtml+xml
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Language, Cookie
+Content-Language: en
+
+13f
+<xml>
+    
+        <remote_ip value='149.171.37.162'/>
+        <country value='Australia'/>
+        <city value='Sydney'/>
+        <local_time value='Sept. 23, 2016, 5:17 p.m.'/> 
+        <timezone value='Australia/NSW'/>
+        <utc_timestamp value='1474615066'/>
+        <time_difference value='+1000'/>
+    
+</xml>
+
+0
+

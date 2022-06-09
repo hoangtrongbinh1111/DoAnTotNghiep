@@ -1,0 +1,8 @@
+GET /audio/mobileApps/resources/UEServiceLocator.xml HTTP/1.1
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.2; HTC_PN071 Build/LRX22G)
+Host: files.logitech.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

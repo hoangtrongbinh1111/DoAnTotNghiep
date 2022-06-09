@@ -1,0 +1,161 @@
+
+2022-05-29 23:07:25
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.7362866609399926, 1.0
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Withings Smart scale_Wireless, -1, 0.0
+4, Netatmo weather station_Wireless, -1, 0.0
+5, Netatmo Welcome_Wireless, -1, 0.0
+6, Triby Speaker_Wireless, -1, 0.0
+7, PIX-STAR Photo-frame_Wireless, -1, 0.0
+8, TP-Link Smart plug_Wireless, -1, 0.0
+9, Samsung SmartCam_Wireless, -1, 0.0
+10, HP Printer_Wireless, -1, 0.0
+11, Non-IoT_Wireless, -1, 0.0
+12, NEST Protect smoke alarm_Wireless, -1, 0.0
+13, Dropcam_Wireless, -1, 0.0
+14, Blipcare Blood Pressure meter_Wireless, -1, 0.0
+15, Belkin wemo motion sensor_Wireless, -1, 0.0
+16, Smart Things_Wired, -1, 0.0
+17, Belkin Wemo switch_Wireless, -1, 0.0
+18, Samsung Galaxy Tab_Wireless, -1, 0.0
+19, TP-Link Day Night Cloud camera_Wireless, -1, 0.0
+Total accuracy: 0.7362866401672363
+
+
+2022-05-29 23:28:56
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), -1, 0.0
+1, Amazon Echo_Wireless, 0.0, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Netatmo Welcome_Wireless, 0.08439003060778312, 0.8415697674418605
+4, Triby Speaker_Wireless, -1, 0.0
+5, Samsung SmartCam_Wireless, -1, 0.0
+6, HP Printer_Wireless, 0.0, 0.0
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, 0.0, 0.0
+9, Belkin wemo motion sensor_Wireless, -1, 0.0
+10, Belkin Wemo switch_Wireless, 0.0, 0.0
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.07105166465044022
+
+
+2022-05-29 23:29:07
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), -1, 0.0
+1, Amazon Echo_Wireless, 0.0, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Netatmo Welcome_Wireless, 0.08439003060778312, 0.8415697674418605
+4, Triby Speaker_Wireless, -1, 0.0
+5, Samsung SmartCam_Wireless, -1, 0.0
+6, HP Printer_Wireless, 0.0, 0.0
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, 0.0, 0.0
+9, Belkin wemo motion sensor_Wireless, -1, 0.0
+10, Belkin Wemo switch_Wireless, 0.0, 0.0
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.07105166465044022
+
+
+2022-05-29 23:29:21
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.5, 0.00016666666666666666
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Netatmo Welcome_Wireless, 0.10714285714285714, 0.00436046511627907
+4, Triby Speaker_Wireless, 0.0, 0.0
+5, Samsung SmartCam_Wireless, 0.02453769559032717, 1.0
+6, HP Printer_Wireless, 0.006299212598425197, 0.05405405405405406
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, -1, 0.0
+9, Belkin wemo motion sensor_Wireless, -1, 0.0
+10, Belkin Wemo switch_Wireless, 0.0, 0.0
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.017916308715939522
+
+
+2022-05-29 23:30:45
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.8092105263157895, 0.0205
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Netatmo Welcome_Wireless, -1, 0.0
+4, Triby Speaker_Wireless, 0.0016750418760469012, 0.1
+5, Samsung SmartCam_Wireless, 0.022424439389015276, 1.0
+6, HP Printer_Wireless, -1, 0.0
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, -1, 0.0
+9, Belkin wemo motion sensor_Wireless, 0.019230769230769232, 0.034482758620689655
+10, Belkin Wemo switch_Wireless, -1, 0.0
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.03251932933926582
+
+
+2022-05-29 23:31:48
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.8447653429602888, 0.039
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, -1, 0.0
+3, Netatmo Welcome_Wireless, -1, 0.0
+4, Triby Speaker_Wireless, 0.006432246998284734, 1.0
+5, Samsung SmartCam_Wireless, 0.0, 0.0
+6, HP Printer_Wireless, 0.005707762557077625, 0.13513513513513514
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, -1, 0.0
+9, Belkin wemo motion sensor_Wireless, -1, 0.0
+10, Belkin Wemo switch_Wireless, 0.19752236751548521, 0.5052816901408451
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.0688428059220314
+
+
+2022-05-29 23:32:48
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), -1, 0.0
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, 0.0, 0.0
+3, Netatmo Welcome_Wireless, 0.045454545454545456, 0.0029069767441860465
+4, Triby Speaker_Wireless, -1, 0.0
+5, Samsung SmartCam_Wireless, -1, 0.0
+6, HP Printer_Wireless, -1, 0.0
+7, Non-IoT_Wireless, -1, 0.0
+8, Dropcam_Wireless, -1, 0.0
+9, Belkin wemo motion sensor_Wireless, -1, 0.0
+10, Belkin Wemo switch_Wireless, 0.07010614663046161, 1.0
+11, Samsung Galaxy Tab_Wireless, -1, 0.0
+Total accuracy: 0.06994723528623581
+
+
+2022-05-31 21:34:49
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.8467933491686461, 0.11883333333333333
+1, Amazon Echo_Wireless, -1, 0.0
+2, Withings Smart Baby Monitor_Wired, 1.0, 1.0
+3, Netatmo Welcome_Wireless, 0.09960681520314547, 0.3313953488372093
+4, Triby Speaker_Wireless, 0.9375, 1.0
+5, Samsung SmartCam_Wireless, 1.0, 1.0
+6, HP Printer_Wireless, 0.15656565656565657, 0.4189189189189189
+7, Non-IoT_Wireless, 0.1725997842502697, 0.33755274261603374
+8, Dropcam_Wireless, 0.011941448382126348, 0.36904761904761907
+9, Belkin wemo motion sensor_Wireless, 0.1336405529953917, 1.0
+10, Belkin Wemo switch_Wireless, 1.0, 0.9982394366197183
+11, Samsung Galaxy Tab_Wireless, 0.07033639143730887, 0.6216216216216216
+Total accuracy: 0.24125659465789795
+
+
+2022-05-31 21:38:34
+DATA_DIR: /home/fitmta/Binh53/DoAnTotNghiep/dataset/temp/Core_DataProcessing/5_Mnist
+0, TPLink Router Bridge LAN (Gateway), 0.8508914100486223, 0.2625
+1, Amazon Echo_Wireless, 0.0, 0.0
+2, Withings Smart Baby Monitor_Wired, 1.0, 1.0
+3, Netatmo Welcome_Wireless, 0.10292812777284827, 0.3372093023255814
+4, Triby Speaker_Wireless, 0.967741935483871, 1.0
+5, Samsung SmartCam_Wireless, 1.0, 1.0
+6, HP Printer_Wireless, 0.09276018099547512, 0.5540540540540541
+7, Non-IoT_Wireless, 0.1324146195326543, 0.46624472573839665
+8, Dropcam_Wireless, 0.014192139737991267, 0.15476190476190477
+9, Belkin wemo motion sensor_Wireless, 0.5918367346938775, 1.0
+10, Belkin Wemo switch_Wireless, 1.0, 0.9982394366197183
+11, Samsung Galaxy Tab_Wireless, 0.1377551020408163, 0.7297297297297297
+Total accuracy: 0.3545220196247101
+

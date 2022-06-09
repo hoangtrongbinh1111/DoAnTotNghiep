@@ -1,0 +1,15 @@
+ </service>
+
+      <service>
+        <serviceType>urn:Belkin:service:remoteaccess:1</serviceType>
+        <serviceId>urn:Belkin:serviceId:remoteaccess1</serviceId>
+        <controlURL>/upnp/control/remoteaccess1</controlURL>
+        <eventSubURL>/upnp/event/remoteaccess1</eventSubURL>
+        <SCPDURL>/remoteaccess.xml</SCPDURL>
+      </service>
+	   
+
+    </serviceList>
+   <presentationURL>/pluginpres.html</presentationURL>
+</device>
+</root>

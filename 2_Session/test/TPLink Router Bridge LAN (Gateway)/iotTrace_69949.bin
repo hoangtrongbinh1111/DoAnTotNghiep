@@ -1,0 +1,11 @@
+>
+            <location>http://files.logitech.com/audio/mobileApps/resources/getDeviceByHexCode.php</location>      
+        </service>
+        <service>
+            <version>1.0</version>
+            <name>updateChecker</name>
+            <description>Firmware Update Check Service for UE Mobile Apps</description>
+            <location>http://uemobileservices.logitech.com/ue/speaker</location>      
+        </service>
+    </services>
+</UEServiceLocator>

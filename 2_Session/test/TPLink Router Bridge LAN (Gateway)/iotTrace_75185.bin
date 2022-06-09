@@ -1,0 +1,10 @@
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 192.168.1.239:59480;branch=z9hG4bK49a8bf2165805167;rport=37808;received=149.171.37.162
+To: <sip:smarthomeunsw.gmail.com.smart@sip.invoxia.com:5228>;tag=c0d116110afd26b5975e33f3c3ee41c4.d78a
+From: <sip:smarthomeunsw.gmail.com.smart@sip.invoxia.com:5228>;tag=7543f7f76c678c3f
+Call-ID: 5f3b7b597f535d11
+CSeq: 6137 REGISTER
+Contact: <sip:smarthomeunsw.gmail.com.smart-0xb48393a8@192.168.1.239:59480;transport=tcp>;expires=600;received="sip:149.171.37.162:37808;transport=tcp"
+Server: kamailio (4.3.4nvx2 (x86_64/linux))
+Content-Length: 0
+

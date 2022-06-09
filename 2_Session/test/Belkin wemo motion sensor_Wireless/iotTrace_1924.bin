@@ -1,0 +1,6 @@
+SUBSCRIBE /upnp/event/basicevent1 HTTP/1.1
+HOST: 192.168.1.223:49153
+CALLBACK: <http://192.168.1.193:49154/>
+NT: upnp:event
+TIMEOUT: Second-1801
+

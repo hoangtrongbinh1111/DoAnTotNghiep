@@ -1,0 +1,10 @@
+GET /b?c1=2&c2=17440561&ns__t=1474598628903&ns_c=UTF-8&cv=3.1&c8=html%20-%20Sending%20http%20headers%20with%20python%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F8315209%2Fsending-http-headers-with-python&c9=https%3A%2F%2Fwww.google.com.au%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://stackoverflow.com/questions/8315209/sending-http-headers-with-python
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: UID=71e74fe-23.0.107.120-1428037590; UIDR=1459602979; CP3=1
+

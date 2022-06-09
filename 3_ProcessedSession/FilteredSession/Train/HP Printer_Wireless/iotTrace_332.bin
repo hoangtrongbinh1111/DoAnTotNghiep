@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: gSOAP/2.7
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 3297
+Connection: close
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope" xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:addressing="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wscn="http://schemas.microsoft.com/windows/2006/08/wdp/scan" xmlns:xop="http://www.w3.org/2004/08/xop/include"><SOAP-ENV:Header><addressing:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</addressing:To><addressing:Action>http://schemas.microsoft.com/windows/2006/08/wdp/scan/GetScannerElementsResponse</addressing:Action><addressing:MessageID>uuid:22a39444-d35d-1f22-9442-705a0fe49bc0</addressing:MessageID><addressing:RelatesTo>urn:uuid:2a5a2bdc-e17e-4754-9e79-3fe42dee7d99</addressing:RelatesTo></SOAP-ENV:Header><SOAP-ENV:Body><wscn:GetScannerElementsResponse><wscn:ScannerElements><wscn:ElementData Valid="true" Name="wscn:ScannerConfiguration"><wscn:ScannerConfiguration><wscn:DeviceSettings><wscn:FormatsSupported><wscn:FormatValue>exif</wscn:FormatValue><wscn:FormatValue>tiff-single-uncompressed</wscn:FormatValue></wscn:FormatsSupported><wscn:CompressionQualityFactorSupported><wscn:MinValue>0</wscn:MinValue><wscn:MaxValue>100</wscn:MaxValue></wscn:CompressionQualityFactorS

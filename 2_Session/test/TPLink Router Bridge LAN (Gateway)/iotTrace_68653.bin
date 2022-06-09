@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache
+Content-Type: text/javascript; charset=utf-8
+Date: Fri, 23 Sep 2016 03:09:27 GMT
+ETag: W/"179-+LnynJ75DwBHBrhOFHJt+A"
+Set-Cookie: parsely_network_uuid=6481b608-387e-47ed-8005-c8a3276bc607; Max-Age=3153600000; Domain=.config.parsely.com; Path=/; Expires=Sun, 30 Aug 2116 03:09:27 GMT; HttpOnly
+X-Powered-By: Express
+Content-Length: 377
+Connection: keep-alive
+
+PARSELY.pInit({"apikey":"dorkly.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack-v0.6.0-engaged-time.js","track_third_party_cookies":true,"uuid":"4d717fbc-e0bd-406e-af3c-74bdfd6230f3","network_uuid":"6481b608-387e-47ed-8005-c8a3276bc607","apikey_uuid":"4d717fbc-e0bd-406e-af3c-74bdfd6230f3"});

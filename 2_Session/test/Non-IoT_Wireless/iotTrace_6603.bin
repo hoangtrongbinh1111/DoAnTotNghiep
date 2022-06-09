@@ -1,0 +1,9 @@
+POST /Ingress/records/open/create/2weyNU3nDA HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.2; HTC_PN071 Build/LRX22G)
+Host: dartmobileingress.optuszoo.com.au
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Length: 11000
+

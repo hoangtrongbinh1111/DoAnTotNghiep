@@ -1,0 +1,9 @@
+GET /js/2129670914.js HTTP/1.1
+Host: cdn.optimizely.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: */*
+Referer: http://www.hp.com/schemas/imaging/con/ledm/jobs/2009/04/30%20../schemas/Jobs.xsd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: optimizelyEndUserId=oeu1460608966527r0.2654923316047817; optimizelySegments=%7B%22802265248%22%3A%22search%22%2C%22804642345%22%3A%22gc%22%2C%22804721898%22%3A%22none%22%2C%22805613199%22%3A%22false%22%2C%222201970017%22%3A%22true%22%2C%222423370181%22%3A%22true%22%2C%222504450966%22%3A%22true%22%2C%222582810220%22%3A%22true%22%7D; optimizelyBuckets=%7B%221178610293%22%3A%221172730

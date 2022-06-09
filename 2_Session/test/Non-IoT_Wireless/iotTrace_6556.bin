@@ -1,0 +1,9 @@
+GET /pki/CRL/products/Microsoft%20Windows%20Hardware%20Compatibility%20PCA(1).crl HTTP/1.1
+Cache-Control: max-age = 547
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Fri, 02 Sep 2016 05:00:22 GMT
+If-None-Match: "3882e6e8d64d21:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.microsoft.com
+

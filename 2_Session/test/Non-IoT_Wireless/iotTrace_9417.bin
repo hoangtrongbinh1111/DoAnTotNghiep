@@ -1,0 +1,6 @@
+POST / HTTP/1.1
+Host: hbf.cloud.avg.com
+User-Agent: heartbeat-client/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 418
+

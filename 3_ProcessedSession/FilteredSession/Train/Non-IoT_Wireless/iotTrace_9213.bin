@@ -1,0 +1,11 @@
+GET /images/progressbar HTTP/1.1
+Host: 192.168.1.236
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://192.168.1.236/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: sid=sffac8954-a65e158876f9cef80358743181e41bde
+If-Modified-Since: Wed, 29 Jul 2015 12:09:28 GMT
+

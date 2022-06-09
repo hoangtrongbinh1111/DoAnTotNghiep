@@ -1,0 +1,10 @@
+GET /v2/tracker?domain=videocloud&platform=video-js&session=b490e17e78d7e43d3b642b2e&account=4244402466001&destination=http%3A%2F%2Fwww.dorkly.com%2Fpost%2F80778%2F9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already&platform_version=5.8.1&player=players.brightcove.com%2F4244402466001%2F4kzVPQdhl_default&player_name=Dorkly%20%20-%20Modern%20recommended%20Videos%20Player&source=https%3A%2F%2Fwww.facebook.com%2F&event=catalog_request&url=https%3A%2F%2Fedge.api.brightcove.com%2Fplayback%2Fv1%2Faccounts%2F4244402466001%2Fvideos%2F5045077426001&time=1474600159968 HTTP/1.1
+Host: metrics.brightcove.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://www.dorkly.com/post/80778/9-times-tumblr-reminded-us-how-much-we-want-incredibles-2-already
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: _bc_uuid=db0c3471-c039-46b5-8b50-f02d28e7acac
+

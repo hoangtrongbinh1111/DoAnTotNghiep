@@ -1,0 +1,6 @@
+GET /gslb/?ver=3.0&type=wifi&uuid=CpBIQd1NPcogO9r_&list=f3.mi-stat.gslb.mi-idc.com%2Capp.chat.xiaomi.net%2Cresolver.msg.xiaomi.net&key=6f986fefe0a711b0583a9e7fd3bbb424 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Host: LB-IM-07-826586616.ap-southeast-1.elb.amazonaws.com:5222
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

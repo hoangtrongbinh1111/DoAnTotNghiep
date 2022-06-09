@@ -1,0 +1,11 @@
+GET /questions/18175489/python-soap-using-requests HTTP/1.1
+Host: stackoverflow.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.google.com.au/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: prov=8f3f4e0a-0374-4ed1-8fde-ce4c5b88a928; __qca=P0-1179434157-1469154012488; _ga=GA1.2.97794521.1428070814
+

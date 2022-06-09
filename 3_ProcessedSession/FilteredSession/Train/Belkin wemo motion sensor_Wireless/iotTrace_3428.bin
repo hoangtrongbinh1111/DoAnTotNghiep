@@ -1,0 +1,6 @@
+GET /upnphost/udhisapi.dll?content=uuid:2266bfd4-4412-4756-8e90-37e082cc8fb8 HTTP/1.1
+HOST: 192.168.1.208:2869
+DATE: Fri, 23 Sep 2016 15:01:19 GMT
+CONNECTION: close
+USER-AGENT: Linux/2.6.21, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+

@@ -1,0 +1,11 @@
+GET /jument/fonts/icomoon/icomoon.woff?-ko51d5 HTTP/1.1
+Host: www.dorkly.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Origin: http://www.dorkly.com
+Accept: */*
+Referer: http://0.static.dorkly.cvcdn.com/css/packages/6d68b063a5d5f3a321ef2048eaea8b60.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: optimizelyEndUserId=oeu1428110839835r0.40028290427289903; _t_uid=b4a2bbe42d6d5773cf207faab55f2b8d7c900bdc.1428110839.1440082ffd8e0.NjAuMjQxLjE3MC43NQ%3D%3D; __gads=ID=de384f73974bad99:T=1432274010:S=ALNI_MYLKXC86ZuubtKCnjWywjDI3ObNAA; __srret=1; __srui=8f5988a7-d9e7-11e4-ae9e-22000a4181c5; chapi={"volume":100,"mute":false,"quality":"high_quality"}; optimizelySegments=%7B%222439090414%22%3A%22gc%22%2C%222461310726%22%3A%22recommendationsutm_s%22%2C%222465210376%22%3A%22false%22%2C%222466140273%22%3A%22referral%22%7D; optimizelyBuckets=%7B%7D; adonis.ppid=6qsyzEBsGzz8EBOHoKJ2E58sLgEUfPBV; adonis.__gads=ID%3Dca0f7e420848ec12%3AT%3D1468255950%3AS%3DALNI_MZl4BleXl2jyHcLRg94bihA0svcTg; __qca=P0-2054466079-1468973679939; wingify_push_do_not_show_notification_popup=true; bm_monthly_unique=true; bm_last_load_status=BLOCKING; _ga=GA1.2.1150270997.1428110841; _parsely_visitor={%22id%22:%2271f18589-f152-44a3-9754-fbfaf8aaf494%22%2C%22session_count%22:211%2C%22last_session_ts%22:1474470045296}
+

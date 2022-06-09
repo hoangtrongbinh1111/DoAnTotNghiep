@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=300
+Content-Encoding: gzip
+Content-Type: application/x-javascript
+Date: Fri, 23 Sep 2016 03:29:24 GMT
+ETag: W/"57e45259-3ea05"
+Last-Modified: Thu, 22 Sep 2016 21:51:21 GMT
+Server: nginx
+Vary: Accept-Encoding
+transfer-encoding: chunked
+Connection: keep-alive
+

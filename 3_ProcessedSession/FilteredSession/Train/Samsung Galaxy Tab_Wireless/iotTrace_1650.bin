@@ -1,0 +1,8 @@
+GET /7day/v3/latest/lto2.dat HTTP/1.1
+Accept: */*, application/vnd.wap.mms-message, application/vnd.wap.sic
+x-wap-profile: http://www.openmobilealliance.org/tech/profiles/UAPROF/ccppschema-20021212#
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T810 Build/MMB29K)
+Host: gllto2.glpals.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
